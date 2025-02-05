@@ -224,8 +224,6 @@ sections:
         label: Atlassian
         url: ''
       - type: Label
-        label: Netlify
-      - type: Label
         label: Scrum Methodology
         url: ''
       - type: Label
@@ -258,6 +256,8 @@ sections:
       - type: Label
         label: Machine Learning
         url: ''
+      - type: Label
+        label: Netlify
       - type: Label
         label: REST API
         url: ''
