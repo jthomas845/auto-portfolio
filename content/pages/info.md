@@ -254,19 +254,18 @@ sections:
 
           *   Publicis Sapient - Associate Software Engineer
 
-          **2022**
+          **Summer 2022**
 
           *   KidzToPros - Assistant Teacher
 
-          **2021**
+          **Summer 2021**
 
           *   Publicis Sapient - Software Engineering Intern
 
-          **2020**
+          **Summer 2020**
 
           *   Lowe's - Sales Associate
           *   DoorDash - Driver
-
 
           **2019**
 
