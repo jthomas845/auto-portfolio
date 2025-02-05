@@ -77,7 +77,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "jarius24thomas@gmail.com",
             "emailAltText": "jarius24thomas@gmail.com",
