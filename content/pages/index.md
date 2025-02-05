@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       # This is my info — I’m sharing it with the world to introduce myself and
       open up my network to new opportunities. you with all the hard work I’ve
-      done in the past few years. <br> Once you’re impressed, you can continue
+      done in the past few years. <br>\n Once you’re impressed, you can continue
       to scroll down to see more details and credentials about me.
     styles:
       self:
