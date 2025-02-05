@@ -209,8 +209,6 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: CSS
         url: ''
       - type: Label
@@ -227,6 +225,8 @@ sections:
       - type: Label
         label: Atlassian
         url: ''
+      - type: Label
+        label: Microsoft Office
       - type: Label
         label: Agile
         url: ''
