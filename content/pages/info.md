@@ -228,8 +228,11 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
+    text: |+
       <jarius24thomas@gmail.com>
+
+      LinkedIN: <https://www.linkedin.com/in/jarius-thomas/>
+
   - type: DividerSection
     styles:
       self:
