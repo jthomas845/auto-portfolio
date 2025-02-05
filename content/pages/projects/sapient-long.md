@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Publicis Sapient
 date: '2022-08-03'
 client: Software Engineer
-description: Associate Software Engineer
+description: Associate Software Engineeras
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
