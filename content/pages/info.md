@@ -241,10 +241,10 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
-          **2023**
+          **2024**
 
 
-          *   AWS Certified Cloud Practitioner certificate 
+          *   AWS Certified Cloud Practitioner certificate
 
 
           **2018-2022**
