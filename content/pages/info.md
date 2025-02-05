@@ -18,7 +18,7 @@ sections:
 
 
       ###### I was born and raised in New York, attended WPI in Worcester, MA,
-      and in 2025 I'm based in Boston.
+      and right now I'm based in Boston.
 
 
       ###### I’m currently a free agent, looking for the next company or client
