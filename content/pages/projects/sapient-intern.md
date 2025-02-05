@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Publicis Sapient
 date: '2021-06-28'
 client: Awesome client
-description: Software Engineering Intern Developed in Python
+description: 'Software Engineering Intern | Python, Google Cloud'
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
