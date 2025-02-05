@@ -17,10 +17,15 @@ sections:
       ## I’m Jarius Thomas, a developer, engineer, and problem solver.
 
 
-      ###### I was born and raised in New York, and (as of publishing) I'm based
-      in Boston. I’m currently a free agent, ex-this, ex-that, ex-super big
-      name. When I’m not coding, writing or creating, I play music and create
-      digital art.
+      ###### I was born and raised in New York, attended WPI in Worcester, MA,
+      and in 2025 I'm based in Boston. 
+
+
+
+
+      ###### I’m currently a free agent, ex-this, ex-that, ex-super big name.
+      When I’m not coding, writing or creating, I play music and create digital
+      art.
 
     media:
       type: ImageBlock
