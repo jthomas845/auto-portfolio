@@ -22,8 +22,15 @@ sections:
 
 
       ###### I’m currently a free agent, looking for the next company or client
-      I can work with. When I’m not coding, writing or creating, I play music
-      and create digital art.
+      I can work with. 
+
+
+      ###### I'm open to working remotely OR on-site, in the Boston metro or
+      anywhere in the US. (preferably the East Coast!) 
+
+
+      ###### When I’m not coding, writing or creating, I play music and create
+      digital art.
 
     media:
       type: ImageBlock
