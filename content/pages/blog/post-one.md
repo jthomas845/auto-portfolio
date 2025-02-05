@@ -7,8 +7,10 @@ author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
-  altText: Post thumbnail image
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
   url: /images/post-2.jpg
   altText: altText of the image
