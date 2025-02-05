@@ -82,7 +82,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/BEVPSD_LOGO.png
+        url: /images/image.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
