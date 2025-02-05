@@ -244,26 +244,25 @@ sections:
         text: |+
           **2022-2024**
 
-          *   Sapient
+          *   Publicis Sapient - Associate Software Engineer
 
           **2022**
 
-          *   KidzToPros
+          *   KidzToPros - Assistant Teacher
 
 
           **2021**
 
-          *   Sapient (intern)
-
+          *   Publicis Sapient - Software Engineering Intern
 
           **2019**
 
-          *   WellCore
-
+          *   WellCore - Assistant Teacher
 
           <!---->
 
-          *   CulturePlay
+          *   CulturePlay - Assistant Teacher
+
 
 
         elementId: ''
