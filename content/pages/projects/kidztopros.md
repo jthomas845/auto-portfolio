@@ -3,7 +3,7 @@ type: ProjectLayout
 title: KidzToPros
 date: '2022-06-28'
 client: Awesome client
-description: Assistant Teacher
+description: 'Assistant Teacher, Programming'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
