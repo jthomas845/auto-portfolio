@@ -96,7 +96,7 @@ sections:
       - content/pages/projects/sapient-intern.md
       - content/pages/projects/beverly.md
     colors: colors-f
-    variant: variant-b
+    variant: variant-d
     elementId: ''
     showDate: true
     showDescription: true
