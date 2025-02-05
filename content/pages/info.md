@@ -282,7 +282,7 @@ sections:
           **2018-2022**
 
 
-          *   b.s. computer science and robotics engineering  at Worcester
+          *   B.S. computer science and robotics engineering  at Worcester
           Polytechnic<sup>
               </sup>
 
