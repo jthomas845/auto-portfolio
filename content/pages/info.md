@@ -244,12 +244,15 @@ sections:
         text: |+
           **2022-2024**
 
+          *   Beverly Public Schools - Substitute Teacher
+
+          **2022-2024**
+
           *   Publicis Sapient - Associate Software Engineer
 
           **2022**
 
           *   KidzToPros - Assistant Teacher
-
 
           **2021**
 
@@ -262,8 +265,6 @@ sections:
           <!---->
 
           *   CulturePlay - Assistant Teacher
-
-
 
         elementId: ''
         styles:
