@@ -284,14 +284,12 @@ sections:
 
           *   b.s. computer science and robotics engineering  at Worcester
           Polytechnic
-
+              *   The multi-disciplinary robotics engineering program at WPI required Mechanical Engineering, Electrical Engineering, and Computer Science.
 
           **2018**
 
 
           *   my highschool
-
-
 
         elementId: ''
         styles:
