@@ -89,7 +89,7 @@ sections:
         url: /images/wellcore.png
         altText: Logo five
         caption: Logo five
-    spacing: 17
+    spacing: 38
     columns: 5
     aspectRatio: auto
     showCaption: false
