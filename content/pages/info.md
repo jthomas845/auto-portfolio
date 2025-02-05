@@ -233,6 +233,9 @@ sections:
       - type: Label
         label: Scrum Methodology
         url: ''
+      - type: Label
+        label: AWS
+        url: ''
   - type: DividerSection
     styles:
       self:
