@@ -47,9 +47,9 @@ sections:
       Science and Robotics Engineering
 
 
-      # This is my info — I’m sharing it with the world to introduce myself and
-      open up my network to new opportunities. you with all the hard work I’ve
-      done in the past few
+      ##### # This is my info — I’m sharing it with the world to introduce
+      myself and open up my network to new opportunities. you with all the hard
+      work I’ve done in the past few
 
 
       ##### # my favorite programming languages are Python, JavaScript, and
