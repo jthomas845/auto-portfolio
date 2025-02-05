@@ -48,7 +48,8 @@ sections:
       work I’ve done in the past few
 
 
-      ##### # my favorite programming languages are Python, JavaScript, and Java
+      ##### # my favorite programming languages are Python, JavaScript, and
+      Java.
 
   - colors: colors-f
     type: FeaturedProjectsSection
