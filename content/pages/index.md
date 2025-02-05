@@ -123,6 +123,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Work
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
