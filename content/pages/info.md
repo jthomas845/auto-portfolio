@@ -136,10 +136,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: nAHH
-            url: 'https://twitter.com/'
+        actions: []
         styles:
           self:
             textAlign: left
