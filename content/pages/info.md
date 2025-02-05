@@ -257,10 +257,10 @@ sections:
         label: Machine Learning
         url: ''
       - type: Label
-        label: Netlify
-      - type: Label
         label: REST API
         url: ''
+      - type: Label
+        label: Netlify
       - type: Label
         label: Microsoft Office
   - type: DividerSection
