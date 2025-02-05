@@ -45,18 +45,10 @@ sections:
     text: >+
       ##### # This is my info — I’m sharing it with the world to introduce
       myself and open up my network to new opportunities. you with all the hard
-      work I’ve done in the past few 
-
-
-      #####
-
-
-      #####
+      work I’ve done in the past few
 
 
       ##### # my favorite programming languages are Python, JavaScript, and Java
-
-
 
   - colors: colors-f
     type: FeaturedProjectsSection
