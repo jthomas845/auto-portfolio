@@ -76,19 +76,24 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "title": "Contact Details",
+            "phoneNumber": "",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "email": "jarius24thomas@gmail.com",
+            "emailAltText": "jarius24thomas@gmail.com",
+            "address": "Magoun Square, Somerville, MA 02145",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
