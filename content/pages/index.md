@@ -47,9 +47,8 @@ sections:
 
 
       I’m sharing it with the world to introduce myself and open up my network
-      to new opportunities. you with all the hard work I’ve done in the past few
-
-
+      to new opportunities. You can explore the work I’ve done in the past few
+      years, and connect with me using the contact resources at the bottom.
 
 
       ##### // Worcester Polytechnic Institute
