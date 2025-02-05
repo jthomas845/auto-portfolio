@@ -267,6 +267,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+        title: Item 1
       - type: FeaturedItem
         title: Item 2 Title
         subtitle: Education
