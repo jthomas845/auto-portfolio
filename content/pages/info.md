@@ -258,6 +258,11 @@ sections:
 
           *   Publicis Sapient - Software Engineering Intern
 
+          **2020**
+
+          *   Lowe's - Sales Associate
+
+
           **2019**
 
           *   WellCore - Assistant Teacher
