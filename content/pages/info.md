@@ -260,6 +260,9 @@ sections:
       - type: Label
         label: Machine Learning
         url: ''
+      - type: Label
+        label: REST API
+        url: ''
   - type: DividerSection
     styles:
       self:
