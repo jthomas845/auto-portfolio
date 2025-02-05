@@ -226,9 +226,6 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Agile
-        url: ''
-      - type: Label
         label: Scrum Methodology
         url: ''
       - type: Label
@@ -245,6 +242,9 @@ sections:
         url: ''
       - type: Label
         label: Microsoft Office
+      - type: Label
+        label: Agile
+        url: ''
       - type: Label
         label: TCP/IP
         url: ''
