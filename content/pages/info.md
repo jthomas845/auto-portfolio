@@ -248,6 +248,9 @@ sections:
       - type: Label
         label: TCP/IP
         url: ''
+      - type: Label
+        label: I2C/SPI
+        url: ''
   - type: DividerSection
     styles:
       self:
