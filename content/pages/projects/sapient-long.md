@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Publicis Sapient
 date: '2022-08-03'
-client: Awesome client
+client: Software Engineer
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
