@@ -283,7 +283,7 @@ sections:
 
 
           *   B.S. computer science and robotics engineering  at Worcester
-          Polytechnic<sup>
+          Polytechnic Institute<sup>
               </sup>
 
           <sup>Note: Completing the multi-disciplinary robotics engineering
