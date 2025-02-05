@@ -92,7 +92,6 @@ sections:
         label: See all projects
         url: /projects
     projects:
-      - content/pages/projects/project-two.md
       - content/pages/projects/sapient-long.md
     colors: colors-f
     variant: variant-b
