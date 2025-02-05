@@ -254,6 +254,9 @@ sections:
       - type: Label
         label: numpy
         url: ''
+      - type: Label
+        label: scipy
+        url: ''
   - type: DividerSection
     styles:
       self:
