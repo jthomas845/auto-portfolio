@@ -239,6 +239,9 @@ sections:
       - type: Label
         label: Linux
         url: ''
+      - type: Label
+        label: SQL
+        url: ''
   - type: DividerSection
     styles:
       self:
