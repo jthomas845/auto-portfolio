@@ -221,6 +221,9 @@ sections:
       - type: Label
         label: GitHub
         url: ''
+      - type: Label
+        label: JIRA
+        url: ''
   - type: DividerSection
     styles:
       self:
