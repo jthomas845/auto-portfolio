@@ -271,13 +271,10 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: >+
-          ****
-
-
           **2023**
 
 
-          *   AWS Cloud certificate somewhere
+          *   AWS Certified Cloud Practitioner certificate 
 
 
           **2018-2022**
@@ -287,9 +284,7 @@ sections:
           Polytechnic
 
 
-
-
-          **201**
+          **2018**
 
 
           *   my highschool
