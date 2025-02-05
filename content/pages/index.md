@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: "I’m a software developer, robotics engineer, consultant,\_digital artist, and a bunch of other titles and buzz words."
-    subtitle: My name is Jarius Thomas.
+    subtitle: My name is Jarius Thomas. Hello!
     styles:
       self:
         height: auto
