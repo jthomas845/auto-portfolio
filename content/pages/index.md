@@ -86,7 +86,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: FeaturedProjectsSection
-    subtitle: Work Experience c. 2019
+    subtitle: Work Experience c. 2019 - 2025
     actions:
       - type: Link
         label: See all projects
