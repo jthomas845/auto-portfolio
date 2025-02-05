@@ -211,10 +211,10 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Netlify
-      - type: Label
         label: CSS
         url: ''
+      - type: Label
+        label: Netlify
       - type: Label
         label: YAML
         url: ''
