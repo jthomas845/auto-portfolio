@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Publicis Sapient
 date: '2021-06-28'
 client: Awesome client
 description: >-
