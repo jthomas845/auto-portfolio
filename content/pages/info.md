@@ -286,9 +286,9 @@ sections:
           Polytechnic<sup>
               </sup>
 
-          <sup>Note: The multi-disciplinary robotics engineering program at WPI
-          required competency in Mechanical Engineering, Electrical Engineering,
-          and Computer Science.</sup>
+          <sup>Note: Completing the multi-disciplinary robotics engineering
+          program at WPI requires competency in Mechanical Engineering,
+          Electrical Engineering, and Computer Science.</sup>
 
 
           **2018**
