@@ -227,6 +227,9 @@ sections:
       - type: Label
         label: Atlassian
         url: ''
+      - type: Label
+        label: Agile
+        url: ''
   - type: DividerSection
     styles:
       self:
