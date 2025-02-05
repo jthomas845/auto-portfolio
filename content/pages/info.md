@@ -201,8 +201,6 @@ sections:
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: Next.js
       - type: Label
         label: Java
@@ -210,6 +208,8 @@ sections:
         label: Pancakes
       - type: Label
         label: C++
+      - type: Label
+        label: Microsoft Office
       - type: Label
         label: Netlify
   - type: DividerSection
