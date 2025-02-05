@@ -5,12 +5,6 @@ colors: colors-a
 date: '2025-02-05'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
