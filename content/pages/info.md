@@ -242,9 +242,13 @@ sections:
         title: ''
         subtitle: Experience
         text: |+
-          **2022-2024**
+          **Nov. 2024 -**
 
           *   Beverly Public Schools - Substitute Teacher
+
+          **Oct. - Dec. 2024**
+
+          *   The Fragrance Outlet - Sales Associate (Seasonal)
 
           **2022-2024**
 
@@ -261,13 +265,12 @@ sections:
           **2020**
 
           *   Lowe's - Sales Associate
+          *   DoorDash - Driver
 
 
           **2019**
 
           *   WellCore - Assistant Teacher
-
-          <!---->
 
           *   CulturePlay - Assistant Teacher
 
