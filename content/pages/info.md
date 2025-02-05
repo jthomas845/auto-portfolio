@@ -270,18 +270,30 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          ****
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          **2023**
 
-          * react certificate somewhere
 
-          **2011**
+          *   AWS Cloud certificate somewhere
 
-          * my highschool
+
+          **2018-2022**
+
+
+          *   b.s. computer science and robotics engineering  at Worcester
+          Polytechnic
+
+
+
+
+          **201**
+
+
+          *   my highschool
+
         styles:
           self:
             textAlign: left
