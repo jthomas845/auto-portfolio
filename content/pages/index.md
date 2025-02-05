@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "I’m a software developer, robotics engineer, consultant,\_digital artist, and a bunch of other titles and buzz words."
+    title: Jarius Thomas
     subtitle: "I’m a software developer, robotics engineer, consultant,\_digital artist, and a bunch of other titles and buzz words."
     styles:
       self:
