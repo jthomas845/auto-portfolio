@@ -6,7 +6,7 @@ client: Software Engineer
 description: 'Associate Software Engineer | Node.js, React.js'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/ptd7xv7u5gcpnkw1r96f.webp
   altText: Project thumbnail image
   caption: ''
   elementId: ''
