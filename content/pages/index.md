@@ -42,7 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
+    text: >
       ##### // Worcester Polytechnic Institute
 
 
@@ -57,6 +57,9 @@ sections:
       ##### // my favorite programming languages are Python, JavaScript, and
       Java.
 
+
+      Collegiate and Professional Projects in these & other languages are
+      highlighted below.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
