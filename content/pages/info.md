@@ -257,6 +257,9 @@ sections:
       - type: Label
         label: scipy
         url: ''
+      - type: Label
+        label: Machine Learning
+        url: ''
   - type: DividerSection
     styles:
       self:
