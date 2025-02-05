@@ -76,7 +76,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "Contact Details",
             "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "jarius24thomas@gmail.com",
