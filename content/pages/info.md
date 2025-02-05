@@ -18,14 +18,12 @@ sections:
 
 
       ###### I was born and raised in New York, attended WPI in Worcester, MA,
-      and in 2025 I'm based in Boston. 
+      and in 2025 I'm based in Boston.
 
 
-
-
-      ###### I’m currently a free agent, ex-this, ex-that, ex-super big name.
-      When I’m not coding, writing or creating, I play music and create digital
-      art.
+      ###### I’m currently a free agent, looking for the next company or client
+      I can work with. When I’m not coding, writing or creating, I play music
+      and create digital art.
 
     media:
       type: ImageBlock
