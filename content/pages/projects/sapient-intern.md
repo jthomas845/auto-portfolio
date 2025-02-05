@@ -21,7 +21,7 @@ media:
   elementId: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gallery-3.jpg
+  url: /images/post-2.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
