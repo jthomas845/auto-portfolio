@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Publicis Sapient
 date: '2021-06-28'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Software Engineering Intern
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
