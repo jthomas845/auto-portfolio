@@ -46,6 +46,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      # This is my info — I’m sharing it with the world to introduce myself and
+      open up my network to new opportunities. you with all the hard work I’ve
+      done in the past few y ears. \r\nOnce you’re impressed, you can continue
+      to scroll down to see more details and credentials about me.
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
