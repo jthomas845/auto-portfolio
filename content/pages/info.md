@@ -239,7 +239,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        title: Item Title
+        title: ''
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
