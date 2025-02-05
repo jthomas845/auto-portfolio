@@ -215,6 +215,9 @@ sections:
       - type: Label
         label: CSS
         url: ''
+      - type: Label
+        label: YAML
+        url: ''
   - type: DividerSection
     styles:
       self:
