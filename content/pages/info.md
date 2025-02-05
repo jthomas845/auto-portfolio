@@ -241,8 +241,6 @@ sections:
         label: NoSQL
         url: ''
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: Agile
         url: ''
       - type: Label
@@ -263,6 +261,8 @@ sections:
       - type: Label
         label: REST API
         url: ''
+      - type: Label
+        label: Microsoft Office
   - type: DividerSection
     styles:
       self:
