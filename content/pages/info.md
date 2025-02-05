@@ -212,6 +212,9 @@ sections:
         label: Microsoft Office
       - type: Label
         label: Netlify
+      - type: Label
+        label: CSS
+        url: ''
   - type: DividerSection
     styles:
       self:
