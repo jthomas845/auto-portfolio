@@ -14,11 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "I’m a software developer, robotics engineer, consultant,\_digital artist, and a bunch of other titles and buzz words."
-    subtitle: >-
-      # This is my info — I’m sharing it with the world to introduce myself and
-      open up my network to new opportunities. you with all the hard work I’ve
-      done in the past few y ears. \r\nOnce you’re impressed, you can continue
-      to scroll down to see more details and credentials about me.
+    subtitle: ''
     styles:
       self:
         height: auto
