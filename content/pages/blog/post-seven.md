@@ -113,15 +113,11 @@ bottomSections:
 
 The best web developers don’t just write great code—they work **efficiently** and **strategically**. Productivity isn’t about working more hours; it’s about **maximizing output with smarter habits**. Here are six key habits that set highly productive developers apart.
 
-
-
 ## 1️⃣ **They Automate Repetitive Tasks**
 
 Repetitive tasks slow down development. The most productive developers **automate everything possible**, from testing to deployments and formatting. Tools like GitHub Actions, Prettier, and CI/CD pipelines eliminate unnecessary manual work, freeing up time for real problem-solving.
 
 💡 **Rule of Thumb:** If a task is repeated often, it should be automated.
-
-
 
 ## 2️⃣ **They Master Their Tools**
 
@@ -129,15 +125,11 @@ Speed comes from **knowing your development environment inside out**. Top develo
 
 🔥 **Quick Win:** Learning keyboard shortcuts can save **hours** every week.
 
-
-
 ## 3️⃣ **They Write Clean, Maintainable Code**
 
 Fast coding means nothing if it creates a mess later. Productive developers follow best practices—keeping functions small, using meaningful variable names, and following DRY (Don’t Repeat Yourself) principles. They write code that’s easy to read, debug, and scale.
 
 🚀 **Golden Rule:** “Code is read more often than it is written.”
-
-
 
 ## 4️⃣ **They Manage Time Effectively**
 
@@ -145,15 +137,11 @@ Distractions are everywhere, and context switching kills focus. Productive devel
 
 ⏳ **Power Move:** Use time-tracking tools like [RescueTime](https://www.rescuetime.com/) or [Toggl](https://www.toggl.com/) to analyze where time is actually spent.
 
-
-
 ## 5️⃣ **They Debug Systematically**
 
 Guessing solutions wastes time. The best developers **debug methodically**, using breakpoints, console logs, and debugging tools to isolate and fix issues efficiently. Instead of getting frustrated, they treat debugging as a puzzle to solve.
 
 🔎 **Mindset Shift:** Debugging isn’t about fixing code—it’s about understanding **why** it broke.
-
-
 
 ## 6️⃣ **They Keep Learning and Adapting**
 
@@ -166,8 +154,6 @@ Web development evolves constantly. The most productive developers **never stop 
 *   [CSS-Tricks](https://css-tricks.com/) – Front-end deep dives
 
 *   [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS) – JavaScript mastery
-
-
 
 ### **Final Thought**
 
