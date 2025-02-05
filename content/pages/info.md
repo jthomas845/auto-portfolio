@@ -224,6 +224,9 @@ sections:
       - type: Label
         label: JIRA
         url: ''
+      - type: Label
+        label: Atlassian
+        url: ''
   - type: DividerSection
     styles:
       self:
