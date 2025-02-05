@@ -296,7 +296,7 @@ sections:
 
           *   High School: West Nyack, New York
 
-          *   Participated in AP Physics, Calculus, History
+          *   Participated in AP Physics, Calculus, Statistics, History
 
           *   Captain of Cross Country and Outdoor Track
 
