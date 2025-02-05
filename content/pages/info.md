@@ -239,7 +239,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: 'Experience:'
         text: >+
           **2023**
 
