@@ -4,9 +4,7 @@ title: Habits of highly productive web developers ⌨️
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  Work smarter, code faster: Essential habits for highly productive web
-  developers.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
