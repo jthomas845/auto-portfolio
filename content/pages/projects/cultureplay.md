@@ -3,9 +3,7 @@ type: ProjectLayout
 title: CulturePlay
 date: '2019-07-03'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Assistant Teacher, Robotics'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
