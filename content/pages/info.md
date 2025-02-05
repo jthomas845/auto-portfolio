@@ -211,7 +211,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Netlify
   - type: DividerSection
     styles:
       self:
