@@ -6,7 +6,7 @@ client: Awesome client
 description: 'Assistant Teacher, Robotics'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/girl-with-robotics-kit-1.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
