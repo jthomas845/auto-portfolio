@@ -242,6 +242,9 @@ sections:
       - type: Label
         label: SQL
         url: ''
+      - type: Label
+        label: NoSQL
+        url: ''
   - type: DividerSection
     styles:
       self:
