@@ -241,25 +241,29 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: Experience
-        text: >+
-          **2023**
+        text: |+
+          **2022-2024**
+
+          *   Sapient
+
+          **2022**
+
+          *   KidzToPros
 
 
-          *   AWS Certified Cloud Practitioner certificate
+          **2021**
+
+          *   Sapient (intern)
 
 
-          **2018-2022**
+          **2019**
+
+          *   WellCore
 
 
-          *   b.s. computer science and robotics engineering  at Worcester
-          Polytechnic
+          <!---->
 
-
-          **2018**
-
-
-          *   my highschool
-
+          *   CulturePlay
 
 
         elementId: ''
