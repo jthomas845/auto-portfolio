@@ -241,10 +241,27 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: Experience
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **2023**
+
+
+          *   AWS Certified Cloud Practitioner certificate
+
+
+          **2018-2022**
+
+
+          *   b.s. computer science and robotics engineering  at Worcester
+          Polytechnic
+
+
+          **2018**
+
+
+          *   my highschool
+
+
+
         featuredImage:
           type: ImageBlock
           url: >-
