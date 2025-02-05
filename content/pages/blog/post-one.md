@@ -105,3 +105,7 @@ media:
   elementId: ''
 ---
 I did not found a startup; this is a place holder
+
+
+
+on the plus side, you're reading my blog!
