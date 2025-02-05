@@ -27,7 +27,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/jarius 1.jpg
       altText: Hero image
     styles:
       self:
