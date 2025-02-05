@@ -16,7 +16,7 @@ media:
   altText: Project image
   caption: Caption of the image
   elementId: ''
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
