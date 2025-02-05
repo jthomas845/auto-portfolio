@@ -43,8 +43,10 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      ##### // Worcester Polytechnic Institute  --  Bach. of Science in Computer
-      Science and Robotics Engineering
+      ##### // Worcester Polytechnic Institute
+
+
+      Bach. of Science in Computer Science and Robotics Engineering
 
 
       ##### // This is my info — I’m sharing it with the world to introduce
