@@ -4,8 +4,7 @@ title: Habits of highly productive web developers ⌨️
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
@@ -52,7 +51,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -110,17 +109,68 @@ bottomSections:
       text:
         textAlign: left
 ---
+# Habits of Highly Productive Web Developers ⌨️
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+The best web developers don’t just write great code—they work **efficiently** and **strategically**. Productivity isn’t about working more hours; it’s about **maximizing output with smarter habits**. Here are six key habits that set highly productive developers apart.
 
-## Good habits
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+## 1️⃣ **They Automate Repetitive Tasks**
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Repetitive tasks slow down development. The most productive developers **automate everything possible**, from testing to deployments and formatting. Tools like GitHub Actions, Prettier, and CI/CD pipelines eliminate unnecessary manual work, freeing up time for real problem-solving.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+💡 **Rule of Thumb:** If a task is repeated often, it should be automated.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+
+
+## 2️⃣ **They Master Their Tools**
+
+Speed comes from **knowing your development environment inside out**. Top developers master their IDEs, command-line tools, and keyboard shortcuts to eliminate wasted effort. They customize their setup for efficiency, ensuring that their tools work for them, not against them.
+
+🔥 **Quick Win:** Learning keyboard shortcuts can save **hours** every week.
+
+
+
+## 3️⃣ **They Write Clean, Maintainable Code**
+
+Fast coding means nothing if it creates a mess later. Productive developers follow best practices—keeping functions small, using meaningful variable names, and following DRY (Don’t Repeat Yourself) principles. They write code that’s easy to read, debug, and scale.
+
+🚀 **Golden Rule:** “Code is read more often than it is written.”
+
+
+
+## 4️⃣ **They Manage Time Effectively**
+
+Distractions are everywhere, and context switching kills focus. Productive developers use techniques like **time-blocking, Pomodoro sessions, and deep work** to stay in the zone. They prioritize tasks strategically, focusing on high-impact work first.
+
+⏳ **Power Move:** Use time-tracking tools like [RescueTime](https://www.rescuetime.com/) or [Toggl](https://www.toggl.com/) to analyze where time is actually spent.
+
+
+
+## 5️⃣ **They Debug Systematically**
+
+Guessing solutions wastes time. The best developers **debug methodically**, using breakpoints, console logs, and debugging tools to isolate and fix issues efficiently. Instead of getting frustrated, they treat debugging as a puzzle to solve.
+
+🔎 **Mindset Shift:** Debugging isn’t about fixing code—it’s about understanding **why** it broke.
+
+
+
+## 6️⃣ **They Keep Learning and Adapting**
+
+Web development evolves constantly. The most productive developers **never stop learning**—they read blogs, take courses, and stay active in developer communities. They embrace new technologies but also **master the fundamentals** to stay ahead.
+
+📚 **Go-To Learning Resources:**
+
+*   [MDN Web Docs](https://developer.mozilla.org/) – Core web knowledge
+
+*   [CSS-Tricks](https://css-tricks.com/) – Front-end deep dives
+
+*   [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS) – JavaScript mastery
+
+
+
+### **Final Thought**
+
+Productivity isn’t about working harder—it’s about **working smarter**. By automating, optimizing workflows, managing time effectively, and continuously learning, developers maximize their efficiency and impact.
+
+Which of these habits do you already use?
