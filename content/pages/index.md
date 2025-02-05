@@ -96,6 +96,7 @@ sections:
       - content/pages/projects/sapient-intern.md
       - content/pages/projects/beverly.md
       - content/pages/projects/kidztopros.md
+      - content/pages/projects/cultureplay.md
     colors: colors-f
     variant: variant-d
     elementId: ''
