@@ -21,7 +21,7 @@ media:
   elementId: ''
 featuredImage:
   type: ImageBlock
-  url: /images/post-2.jpg
+  url: /images/publicis-nyc-office-main.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
