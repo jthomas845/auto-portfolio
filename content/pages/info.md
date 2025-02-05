@@ -251,6 +251,9 @@ sections:
       - type: Label
         label: I2C/SPI
         url: ''
+      - type: Label
+        label: numpy
+        url: ''
   - type: DividerSection
     styles:
       self:
