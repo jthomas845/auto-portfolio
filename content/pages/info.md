@@ -205,7 +205,7 @@ sections:
       - type: Label
         label: Java
       - type: Label
-        label: Pancakes
+        label: JS and TS
       - type: Label
         label: HTML
       - type: Label
