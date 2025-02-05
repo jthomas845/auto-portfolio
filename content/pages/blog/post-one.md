@@ -11,12 +11,6 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
-media:
-  url: /images/post-2.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
-  type: ImageBlock
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
