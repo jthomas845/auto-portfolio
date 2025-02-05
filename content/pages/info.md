@@ -212,8 +212,6 @@ sections:
         label: CSS
         url: ''
       - type: Label
-        label: Netlify
-      - type: Label
         label: YAML
         url: ''
       - type: Label
@@ -227,6 +225,8 @@ sections:
         url: ''
       - type: Label
         label: Microsoft Office
+      - type: Label
+        label: Netlify
       - type: Label
         label: Agile
         url: ''
