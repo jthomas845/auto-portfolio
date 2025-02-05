@@ -103,6 +103,12 @@ media:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 I did not found a startup; this is a place holder
 
