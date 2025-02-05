@@ -230,6 +230,9 @@ sections:
       - type: Label
         label: Agile
         url: ''
+      - type: Label
+        label: Scrum methodology
+        url: ''
   - type: DividerSection
     styles:
       self:
