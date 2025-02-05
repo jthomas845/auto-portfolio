@@ -236,6 +236,9 @@ sections:
       - type: Label
         label: AWS
         url: ''
+      - type: Label
+        label: Linux
+        url: ''
   - type: DividerSection
     styles:
       self:
