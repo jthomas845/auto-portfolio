@@ -294,7 +294,7 @@ sections:
           **2018**
 
 
-          *   my highschool
+          *   High School: West Nyack, New York
 
         elementId: ''
         styles:
