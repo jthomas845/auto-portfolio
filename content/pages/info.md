@@ -269,7 +269,7 @@ sections:
               - pr-0
       - type: FeaturedItem
         title: Item Title
-        subtitle: ''
+        subtitle: Education
         text: >+
           **2023**
 
