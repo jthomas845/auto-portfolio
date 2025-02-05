@@ -224,8 +224,6 @@ sections:
         label: Atlassian
         url: ''
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: Netlify
       - type: Label
         label: Agile
@@ -245,6 +243,8 @@ sections:
       - type: Label
         label: NoSQL
         url: ''
+      - type: Label
+        label: Microsoft Office
       - type: Label
         label: TCP/IP
         url: ''
