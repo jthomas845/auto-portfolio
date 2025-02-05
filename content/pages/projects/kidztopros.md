@@ -6,7 +6,8 @@ client: Awesome client
 description: 'Assistant Teacher, Programming'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/KidzToPros_Computer_-_28de80_-_d833bbecdd7ee0ad826eef2ed8ca3ba549039845.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
