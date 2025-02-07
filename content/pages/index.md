@@ -96,7 +96,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Worcester Polytechnic Institute
+        title: Worcester Polyt'nic Institute
         subtitle: Class of 2022
         text: |
           Bach. of Science in Computer Science and Robotics Engineering
