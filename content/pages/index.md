@@ -70,23 +70,10 @@ sections:
         title: About This Webpage
         subtitle: 'Tech Stack: Netlify, GitHub'
         text: >
-          ##### // About this webpage
-
-
-          I’m sharing it with the world to introduce myself and open up my
+          I’ve built and shared this website to introduce myself and open up my
           network to new opportunities. You can explore the work I’ve done in
           the past few years, and connect with me using the contact resources at
           the bottom.
-
-
-
-
-          ##### // my favorite programming languages are Python, JavaScript, and
-          Java.
-
-
-          Collegiate and Professional Projects in these & other languages are
-          highlighted below.
         featuredImage:
           type: ImageBlock
           url: >-
