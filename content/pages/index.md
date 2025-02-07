@@ -78,8 +78,7 @@ sections:
           the bottom.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/cool render.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
