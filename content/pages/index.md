@@ -73,33 +73,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Education
-        subtitle: 'Worcester Polytechnic Institute, Class of 2022'
-        text: |
-          Bach. of Science in Computer Science and Robotics Engineering
-
-          Lambda Chi Alpha Fraternity -- Secretary, Recruitment Team Lead
-        featuredImage:
-          type: ImageBlock
-          url: /images/gompei in da sweater.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: Personal
         subtitle: ''
         text: >+
@@ -115,6 +88,33 @@ sections:
           jobs I've worked over my career have primarily been as an engineer or
           as a teacher.
 
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Education
+        subtitle: 'Worcester Polytechnic Institute, Class of 2022'
+        text: |
+          Bach. of Science in Computer Science and Robotics Engineering
+
+          Lambda Chi Alpha Fraternity -- Secretary, Recruitment Team Lead
+        featuredImage:
+          type: ImageBlock
+          url: /images/gompei in da sweater.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
         actions:
           - type: Button
             label: ''
