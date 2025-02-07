@@ -3,7 +3,7 @@ type: ProjectLayout
 title: SailBot
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: WPI
 description: >-
   The goal of this project is to improve upon prior iterations of SailBot, an
   autonomous robotic sailboat. This was accomplished by improving the
