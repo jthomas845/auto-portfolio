@@ -131,6 +131,13 @@ sections:
         text: >
           Some of my favorite programming languages are Python, Java, and
           JavaScript.
+
+
+
+
+          I grew up with a teacher and an engineer as parents; and ironically
+          now, the jobs I've held have primarily been as an engineer or as a
+          teacher
         featuredImage:
           type: ImageBlock
           url: >-
