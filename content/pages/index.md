@@ -42,27 +42,114 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >
-      ##### // About this webpage
+    text: ''
+  - type: FeaturedItemsSection
+    title: Fast Facts
+    items:
+      - type: FeaturedItem
+        title: About Me
+        subtitle: ''
+        text: >
+          Some of my favorite programming languages are Python, Java, and
+          JavaScript.
 
 
-      I’m sharing it with the world to introduce myself and open up my network
-      to new opportunities. You can explore the work I’ve done in the past few
-      years, and connect with me using the contact resources at the bottom.
+          Some topics I really care about include Web Development, Machine
+          Learning, Computer Vision, Unmanned Robotics and Industrial Robotics.
 
 
-      ##### // Worcester Polytechnic Institute
+          I grew up with a teacher and an engineer as parents; funny enough, the
+          jobs I've worked over my career have primarily been as an engineer or
+          as a teacher.
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: About This Webpage
+        subtitle: 'Tech Stack: Node.js, Netlify, GitHub'
+        text: >
+          I’ve built and shared this website to introduce myself and open up my
+          network to new opportunities.
 
 
-      Bach. of Science in Computer Science and Robotics Engineering
 
 
-      ##### // my favorite programming languages are Python, JavaScript, and
-      Java.
+          You can explore the work I’ve done in the past few years, and connect
+          with me using the contact resources at the bottom.
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: About My Education
+        subtitle: 'Worcester Polytechnic Institute, Class of 2022'
+        text: |
+          Bach. of Science in Computer Science and Robotics Engineering
 
-
-      Collegiate and Professional Projects in these & other languages are
-      highlighted below.
+          Lambda Chi Alpha Fraternity -- Secretary, Recruitment Team Lead
+        featuredImage:
+          type: ImageBlock
+          url: /images/gompei in da sweater.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 3
+    spacingX: 46
+    spacingY: 8
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
