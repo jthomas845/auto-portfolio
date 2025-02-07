@@ -105,9 +105,9 @@ sections:
           JavaScript.
 
 
-          I grew up with a teacher and an engineer as parents; and ironically,
-          the jobs I've worked over my career have primarily been as an engineer
-          or as a teacher
+          I grew up with a teacher and an engineer as parents; funny enough, the
+          jobs I've worked over my career have primarily been as an engineer or
+          as a teacher
         actions:
           - type: Button
             label: ''
