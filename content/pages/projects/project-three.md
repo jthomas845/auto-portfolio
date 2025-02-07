@@ -26,7 +26,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/a false positive.png
         altText: Image one
-        caption: Image one caption
+        caption: A  false positive
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-2.jpg
