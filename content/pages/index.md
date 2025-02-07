@@ -110,7 +110,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: // Worcester Polytechnic Institute
-        subtitle: ''
+        subtitle: Class of 2022
         text: |+
           ##### // Worcester Polytechnic Institute
 
