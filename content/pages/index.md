@@ -50,12 +50,14 @@ sections:
         title: About This Webpage
         subtitle: 'Tech Stack: Node.js, Netlify, GitHub'
         text: >
-
-
           I’ve built and shared this website to introduce myself and open up my
-          network to new opportunities. You can explore the work I’ve done in
-          the past few years, and connect with me using the contact resources at
-          the bottom.
+          network to new opportunities.
+
+
+
+
+          You can explore the work I’ve done in the past few years, and connect
+          with me using the contact resources at the bottom.
         actions:
           - type: Button
             label: ''
