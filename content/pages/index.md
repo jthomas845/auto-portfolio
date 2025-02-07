@@ -133,11 +133,9 @@ sections:
           JavaScript.
 
 
-
-
-          I grew up with a teacher and an engineer as parents; and ironically
-          now, the jobs I've held have primarily been as an engineer or as a
-          teacher
+          I grew up with a teacher and an engineer as parents; and ironically,
+          the jobs I've worked over my career have primarily been as an engineer
+          or as a teacher
         featuredImage:
           type: ImageBlock
           url: >-
