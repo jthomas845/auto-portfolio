@@ -18,6 +18,52 @@ media:
   type: ImageBlock
   url: /images/bg3.jpg
   altText: Project image
+bottomSections:
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-2.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-c
+    spacing: 16
+    columns: 2
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
 ---
 The goal of this project was to improve upon the 5 prior iterations of SailBot, the autonomous robotic sailboat maintained by WPI. This was accomplished by improving the mechanical, electrical, and software systems already in place, as well as adding new systems. Our overall objective for this iteration is to increase the rigidity and reliability of the vehicle. 
 
