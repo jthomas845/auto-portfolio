@@ -68,10 +68,7 @@ sections:
     items:
       - type: FeaturedItem
         title: About This Webpage
-        subtitle: >-
-          t anyway, I'm just really intesting in how this was done:
-          https://imgur.com/a/efw7oWhThis seems like a "line breaking symbol",
-          but
+        subtitle: ''
         text: >
           I’ve built and shared this website to introduce myself and open up my
           network to new opportunities. You can explore the work I’ve done in
