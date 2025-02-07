@@ -47,32 +47,6 @@ sections:
     title: Fast Facts
     items:
       - type: FeaturedItem
-        title: About This Webpage
-        subtitle: 'Tech Stack: Node.js, Netlify, GitHub'
-        text: >
-          I’ve built and shared this website to introduce myself and open up my
-          network to new opportunities.
-
-
-
-
-          You can explore the work I’ve done in the past few years, and connect
-          with me using the contact resources at the bottom.
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: Personal
         subtitle: ''
         text: >+
@@ -88,6 +62,32 @@ sections:
           jobs I've worked over my career have primarily been as an engineer or
           as a teacher.
 
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: About This Webpage
+        subtitle: 'Tech Stack: Node.js, Netlify, GitHub'
+        text: >
+          I’ve built and shared this website to introduce myself and open up my
+          network to new opportunities.
+
+
+
+
+          You can explore the work I’ve done in the past few years, and connect
+          with me using the contact resources at the bottom.
         actions:
           - type: Button
             label: ''
