@@ -77,18 +77,17 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Education
-        subtitle: 'Worcester Polytechnic Institute, Class of 2022'
-        text: |
-          Bach. of Science in Computer Science and Robotics Engineering
+        title: About This Webpage
+        subtitle: 'Tech Stack: Node.js, Netlify, GitHub'
+        text: >
+          I’ve built and shared this website to introduce myself and open up my
+          network to new opportunities.
 
-          Lambda Chi Alpha Fraternity -- Secretary, Recruitment Team Lead
-        featuredImage:
-          type: ImageBlock
-          url: /images/gompei in da sweater.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
+
+
+
+          You can explore the work I’ve done in the past few years, and connect
+          with me using the contact resources at the bottom.
         actions:
           - type: Button
             label: ''
@@ -104,17 +103,18 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: About This Webpage
-        subtitle: 'Tech Stack: Node.js, Netlify, GitHub'
-        text: >
-          I’ve built and shared this website to introduce myself and open up my
-          network to new opportunities.
+        title: Education
+        subtitle: 'Worcester Polytechnic Institute, Class of 2022'
+        text: |
+          Bach. of Science in Computer Science and Robotics Engineering
 
-
-
-
-          You can explore the work I’ve done in the past few years, and connect
-          with me using the contact resources at the bottom.
+          Lambda Chi Alpha Fraternity -- Secretary, Recruitment Team Lead
+        featuredImage:
+          type: ImageBlock
+          url: /images/gompei in da sweater.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
         actions:
           - type: Button
             label: ''
