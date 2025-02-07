@@ -56,12 +56,6 @@ sections:
           network to new opportunities. You can explore the work I’ve done in
           the past few years, and connect with me using the contact resources at
           the bottom.
-        featuredImage:
-          type: ImageBlock
-          url: /images/cool render.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: ''
