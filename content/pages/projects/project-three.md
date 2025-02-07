@@ -4,7 +4,7 @@ title: SailBot
 colors: colors-a
 date: '2022-01-22'
 client: WPI
-description: ''
+description: 'https://digital.wpi.edu/pdfviewer/cv43p1245'
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
