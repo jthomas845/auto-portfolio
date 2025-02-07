@@ -108,12 +108,6 @@ sections:
           I grew up with a teacher and an engineer as parents; and ironically,
           the jobs I've worked over my career have primarily been as an engineer
           or as a teacher
-        featuredImage:
-          type: ImageBlock
-          url: /images/_7R24360.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: ''
