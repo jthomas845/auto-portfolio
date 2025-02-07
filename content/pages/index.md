@@ -106,8 +106,7 @@ sections:
           Lambda Chi Alpha Fraternity -- Secretary, Recruitment Team Lead
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/gompei in da sweater.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
