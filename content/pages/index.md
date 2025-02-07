@@ -99,9 +99,7 @@ sections:
         title: Worcester Polytechnic Institute
         subtitle: Class of 2022
         text: |
-          Bach. of Science
-
-          Computer Science and Robotics Engineering
+          Bach. of Science in Computer Science and Robotics Engineering
 
           Lambda Chi Alpha Fraternity -- Secretary, Recruitment Team Lead
         featuredImage:
