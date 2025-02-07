@@ -136,7 +136,7 @@ sections:
           or as a teacher
         featuredImage:
           type: ImageBlock
-          url: /images/about.jpg
+          url: /images/_7R24360.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
