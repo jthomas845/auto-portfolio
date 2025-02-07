@@ -126,7 +126,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: Personal
         subtitle: ''
         text: >
           Some of my favorite programming languages are Python, Java, and
