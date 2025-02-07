@@ -136,8 +136,7 @@ sections:
           or as a teacher
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/about.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
