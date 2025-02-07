@@ -64,7 +64,7 @@ sections:
       Collegiate and Professional Projects in these & other languages are
       highlighted below.
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Fast Facts
     items:
       - type: FeaturedItem
         title: I'm Fast
