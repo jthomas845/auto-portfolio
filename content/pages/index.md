@@ -42,27 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >
-      ##### // About this webpage
-
-
-      I’m sharing it with the world to introduce myself and open up my network
-      to new opportunities. You can explore the work I’ve done in the past few
-      years, and connect with me using the contact resources at the bottom.
-
-
-      ##### // Worcester Polytechnic Institute
-
-
-      Bach. of Science in Computer Science and Robotics Engineering
-
-
-      ##### // my favorite programming languages are Python, JavaScript, and
-      Java.
-
-
-      Collegiate and Professional Projects in these & other languages are
-      highlighted below.
+    text: ''
   - type: FeaturedItemsSection
     title: Fast Facts
     items:
