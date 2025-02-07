@@ -100,6 +100,10 @@ sections:
         subtitle: Class of 2022
         text: |
           Bach. of Science in Computer Science and Robotics Engineering
+
+
+
+          Lambda Chi Alpha Fraternity -- Secretary, Recruitment Team Lead
         featuredImage:
           type: ImageBlock
           url: >-
