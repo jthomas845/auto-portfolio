@@ -68,7 +68,7 @@ sections:
     items:
       - type: FeaturedItem
         title: About This Webpage
-        subtitle: 'Tech Stack: Netlify, GitHub'
+        subtitle: 'Tech Stack: Node.js, Netlify, GitHub'
         text: >
 
 
