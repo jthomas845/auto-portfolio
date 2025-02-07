@@ -47,7 +47,7 @@ sections:
     title: Fast Facts
     items:
       - type: FeaturedItem
-        title: Personal
+        title: About Me
         subtitle: ''
         text: >
           Some of my favorite programming languages are Python, Java, and
