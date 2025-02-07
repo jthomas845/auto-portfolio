@@ -49,19 +49,18 @@ sections:
       - type: FeaturedItem
         title: Personal
         subtitle: ''
-        text: >+
+        text: >
           Some of my favorite programming languages are Python, Java, and
           JavaScript.
 
 
           Some topics I really care about include Web Development, Machine
-          Learning, Computer Vision, Unmanned Robotics and Industrial Robotics, 
+          Learning, Computer Vision, Unmanned Robotics and Industrial Robotics.
 
 
           I grew up with a teacher and an engineer as parents; funny enough, the
           jobs I've worked over my career have primarily been as an engineer or
           as a teacher.
-
         actions:
           - type: Button
             label: ''
