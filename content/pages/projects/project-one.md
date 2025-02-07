@@ -3,7 +3,7 @@ type: ProjectLayout
 title: MaryBot
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Publicis Sapient c/o Marriott Int'l
 description: ( add copy )
 featuredImage:
   type: ImageBlock
