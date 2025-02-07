@@ -67,7 +67,7 @@ sections:
     title: Fast Facts
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: About This Webpage
         subtitle: ''
         text: >
           ##### // About this webpage
