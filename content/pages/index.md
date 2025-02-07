@@ -69,7 +69,7 @@ sections:
       - type: FeaturedItem
         title: I'm Fast
         subtitle: ''
-        text: >+
+        text: >
           ##### // About this webpage
 
 
@@ -79,10 +79,6 @@ sections:
           the bottom.
 
 
-          ##### // Worcester Polytechnic Institute
-
-
-          Bach. of Science in Computer Science and Robotics Engineering
 
 
           ##### // my favorite programming languages are Python, JavaScript, and
@@ -91,9 +87,6 @@ sections:
 
           Collegiate and Professional Projects in these & other languages are
           highlighted below.
-
-
-
         featuredImage:
           type: ImageBlock
           url: >-
