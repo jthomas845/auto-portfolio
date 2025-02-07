@@ -109,7 +109,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: // Worcester Polytechnic Institute
         subtitle: ''
         text: |+
           ##### // Worcester Polytechnic Institute
