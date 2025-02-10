@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: MaryBot
 colors: colors-a
-date: '2021-08-15'
+date: '2021-08-16'
 client: Publicis Sapient c/o Marriott Int'l
 description: >-
   Participated in a team-led internship program, developing a chatbot app for a
