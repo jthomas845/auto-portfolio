@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: CulturePlay
+title: CulturePlay Computer Science Academy
 date: '2019-07-03'
 client: ''
 description: 'Assistant Teacher, Robotics'
