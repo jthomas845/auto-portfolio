@@ -15,7 +15,7 @@ media:
   altText: Project image
   caption: Caption of the image
   elementId: ''
-  url: /images/ptd7xv7u5gcpnkw1r96f.webp
+  url: /images/publicis-06-workspace-flr15-elkusmanfrediarchitects-ericlaignel.jpg
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
