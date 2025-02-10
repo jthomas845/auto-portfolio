@@ -25,8 +25,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-20
-          - pb-10
+          - pt-36
+          - pb-48
           - pl-4
           - pr-4
         alignItems: center
@@ -187,8 +187,10 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: About My Education
-        subtitle: 'Worcester Polytechnic Institute, Class of 2022'
+        subtitle: ''
         text: |
+          Worcester Polytechnic Institute, Class of 2022
+
           Bach. of Science in Computer Science and Robotics Engineering
 
           Lambda Chi Alpha Fraternity -- Secretary, Recruitment Committee
@@ -224,7 +226,7 @@ sections:
         width: wide
         padding:
           - pt-28
-          - pb-10
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
@@ -247,7 +249,6 @@ sections:
     posts:
       - content/pages/blog/post-seven.md
       - content/pages/blog/post-one.md
-      - content/pages/blog/post-six.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
