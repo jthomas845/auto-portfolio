@@ -18,13 +18,14 @@ export default function FeaturedItem(props) {
                 borderWidth: borderWidth ? `${borderWidth}px` : null
             }}
         >
+            
+            {title && <h3 className={classNames(styles.title ? mapStyles(styles.title) : null)}>{title}</h3>}
+            {subtitle && <p className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': title })}>{subtitle}</p>}
             {featuredImage && (
                 <div className="mb-6">
                     <ImageBlock {...featuredImage} className="inline-block" />
                 </div>
             )}
-            {title && <h3 className={classNames(styles.title ? mapStyles(styles.title) : null)}>{title}</h3>}
-            {subtitle && <p className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': title })}>{subtitle}</p>}
             {text && (
                 <Markdown
                     options={{ forceBlock: true, forceWrapper: true }}
