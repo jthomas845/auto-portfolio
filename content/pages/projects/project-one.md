@@ -17,10 +17,23 @@ media:
   url: /images/ia chat.webp
   altText: Project image
 ---
+*   Developed a Python webhook integrating the chatbot with MongoDB and external APIs. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+<!---->
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   Created and tested training conversations on Google Dialogflow. 
+
+<!---->
+
+*   Delivered a well-received demo to executive shareholders showcasing our chatbot’s functions and demonstrating its potential value as a tool in the industry. 
+
+<!---->
+
+*   Enhancing skills in Python and Agile teamwork, while gaining exposure to Google Cloud tools and N
+
+
+
+
 
 > “Everybody should learn to program a computer, because it teaches you how to think.”
 
