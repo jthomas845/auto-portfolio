@@ -3,7 +3,7 @@ type: ProjectLayout
 title: FIGMA-To-Code Pipeline
 colors: colors-a
 date: '2024-04-14'
-client: Awesome client
+client: Publicis Sapient
 description: >-
   Designed an AI-powered pipeline to generate usable code from Figma designs.
   This pipeline utilized 3rd-party Gen. AI from builder.io, and Python scripts
