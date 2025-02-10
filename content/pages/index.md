@@ -231,7 +231,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: ''
+    subtitle: 'Projects from Work, Personal, and Academia'
     title: Projects
   - type: FeaturedPostsSection
     elementId: ''
