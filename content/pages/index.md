@@ -53,7 +53,7 @@ sections:
         altText: See all projects
     showDate: true
     showDescription: true
-    showFeaturedImage: false
+    showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
     projects:
