@@ -132,7 +132,7 @@ sections:
     actions: []
     colors: colors-f
     columns: 3
-    spacingX: 6
+    spacingX: 16
     spacingY: 8
     elementId: ''
     styles:
