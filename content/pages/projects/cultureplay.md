@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: CulturePlay
 date: '2019-07-03'
-client: Awesome client
+client: ''
 description: 'Assistant Teacher, Robotics'
 featuredImage:
   type: ImageBlock
