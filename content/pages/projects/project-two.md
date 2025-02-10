@@ -6,8 +6,8 @@ date: '2021-12-20'
 client: Awesome client
 description: >-
   Designed an AI-powered pipeline to generate usable code from Figma designs.
-  This pipeline utilized 3rd-party Gen. AI from builder.io and Python scripts 
-  to clean the file.
+  This pipeline utilized 3rd-party Gen. AI from builder.io, and Python scripts
+  to clean the generated code.
 featuredImage:
   type: ImageBlock
   url: /images/figma.avif
