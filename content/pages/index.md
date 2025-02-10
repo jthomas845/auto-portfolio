@@ -59,7 +59,7 @@ sections:
     variant: variant-b
     elementId: ''
     showDate: true
-    showDescription: false
+    showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
     styles:
