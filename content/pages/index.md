@@ -214,8 +214,8 @@ sections:
             textAlign: left
     actions: []
     colors: colors-f
-    columns: 2
-    spacingX: 32
+    columns: 3
+    spacingX: 51
     spacingY: 8
     elementId: ''
     styles:
@@ -245,9 +245,9 @@ sections:
         label: See all posts
         url: /blog
     posts:
+      - content/pages/blog/post-seven.md
       - content/pages/blog/post-one.md
       - content/pages/blog/post-six.md
-      - content/pages/blog/post-seven.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
