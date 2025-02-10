@@ -6,7 +6,7 @@ client: Awesome client
 description: Sales
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Lowed nis.webp
   altText: Project thumbnail image
   caption: ''
   elementId: ''
