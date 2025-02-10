@@ -17,7 +17,7 @@ media:
   url: /images/ia chat.webp
   altText: Project image
 ---
-*   Developed a Python webhook integrating the chatbot with MongoDB and external APIs. 
+*   Developed a Python webhook integrating the chatbot with MongoDB and external APIs for Ticketmaster and Yelp.
 
 <!---->
 
@@ -30,10 +30,6 @@ media:
 <!---->
 
 *   Enhancing skills in Python and Agile teamwork, while gaining exposure to Google Cloud tools and N
-
-
-
-
 
 > “Everybody should learn to program a computer, because it teaches you how to think.”
 
