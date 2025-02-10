@@ -21,6 +21,8 @@ export default function Component(props: HeroSection) {
                     'space-y-reverse lg:space-y-0 lg:space-x-8 lg:space-x-reverse': sectionFlexDirection === 'row-reverse',
                     'space-y-reverse': sectionFlexDirection === 'col-reverse'
                 })}
+                style={{height: "300px;"}}
+                
             >
                 <div className="flex-1 w-full">
                     <HeroBody {...props} />
