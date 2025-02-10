@@ -58,7 +58,7 @@ sections:
       - content/pages/projects/tfo.md
       - content/pages/projects/lowes.md
     colors: colors-f
-    variant: variant-c
+    variant: variant-d
     elementId: ''
     showDate: true
     showDescription: true
