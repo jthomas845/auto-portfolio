@@ -87,7 +87,7 @@ sections:
           with me using the contact resources at the bottom.
 
 
-          **Tech Stack** of this webpage: Node.js, Netlify, GitHub
+          **Tech Stack** of this webpage inlcldues: Node.js, Netlify, GitHub
         actions:
           - type: Button
             label: ''
