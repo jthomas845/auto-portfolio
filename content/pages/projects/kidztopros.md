@@ -28,15 +28,15 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-Teacher
+Instructor
 
 KidzToPros - Medford, MA
+
+
 
 *   Instructed and managed a group of students through KidzToPros tech curriculum.
 
     *   Taught topics including control loops, variables, and booleans
 
 *   Signed students in/out with family and guardians, ensuring a solid headcount with each student accounted for
-
-
 
