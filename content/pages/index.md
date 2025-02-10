@@ -43,8 +43,91 @@ sections:
     type: HeroSection
     actions: []
     text: ''
+  - colors: colors-f
+    type: FeaturedProjectsSection
+    elementId: ''
+    actions:
+      - type: Link
+        label: See all projects
+        url: /projects
+        altText: See all projects
+    showDate: true
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-b
+    projects:
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-one.md
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-end
+    subtitle: 'Projects from Work, Personal, and Academia'
+    title: Projects
+  - type: FeaturedProjectsSection
+    subtitle: Work Experience c. 2019 - 2025
+    actions:
+      - type: Link
+        label: See all projects
+        url: /projects
+    projects:
+      - content/pages/projects/sapient-long.md
+      - content/pages/projects/sapient-intern.md
+      - content/pages/projects/beverly.md
+      - content/pages/projects/kidztopros.md
+      - content/pages/projects/cultureplay.md
+      - content/pages/projects/tfo.md
+      - content/pages/projects/lowes.md
+    colors: colors-f
+    variant: variant-d
+    elementId: ''
+    showDate: true
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-end
+    title: Work
   - type: FeaturedItemsSection
-    title: Fast Facts
+    title: ''
     items:
       - type: FeaturedItem
         title: About Me
@@ -77,16 +160,17 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: About This Webpage
-        subtitle: 'Tech Stack: Node.js, Netlify, GitHub'
+        subtitle: ''
         text: >
           I’ve built and shared this website to introduce myself and open up my
           network to new opportunities.
 
 
-
-
           You can explore the work I’ve done in the past few years, and connect
           with me using the contact resources at the bottom.
+
+
+          **Tech Stack** of this webpage inlcldues: Node.js, Netlify, GitHub
         actions:
           - type: Button
             label: ''
@@ -131,7 +215,7 @@ sections:
     actions: []
     colors: colors-f
     columns: 3
-    spacingX: 46
+    spacingX: 32
     spacingY: 8
     elementId: ''
     styles:
@@ -150,85 +234,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
-  - type: FeaturedProjectsSection
-    subtitle: Work Experience c. 2019 - 2025
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    projects:
-      - content/pages/projects/sapient-long.md
-      - content/pages/projects/sapient-intern.md
-      - content/pages/projects/beverly.md
-      - content/pages/projects/kidztopros.md
-      - content/pages/projects/cultureplay.md
-    colors: colors-f
-    variant: variant-d
-    elementId: ''
-    showDate: true
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    title: Work
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -337,4 +342,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+addTitleSuffix: true
 ---

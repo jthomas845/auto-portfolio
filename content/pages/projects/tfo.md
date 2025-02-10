@@ -1,18 +1,18 @@
 ---
 type: ProjectLayout
-title: Beverly Public Schools
-date: '2024-11-04'
+title: The Fragrance Outlet
+date: '2024-11-08'
 client: Awesome client
-description: Teacher
+description: Sales
 featuredImage:
   type: ImageBlock
-  url: /images/BHS.jpg
-  altText: Project thumbnail image
-  caption: ''
+  url: /images/TFO.jpg
+  altText: altText of the image
+  caption: Caption of the image
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/TFO.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''

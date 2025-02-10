@@ -2,17 +2,21 @@
 type: ProjectLayout
 title: FIGMA-To-Code Pipeline
 colors: colors-a
-date: '2021-12-20'
+date: '2024-04-14'
 client: Awesome client
-description: ( add copy )
+description: >-
+  Designed an AI-powered pipeline to generate usable code from Figma designs.
+  This pipeline utilized 3rd-party Gen. AI from builder.io, and Python scripts
+  to clean the generated code.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/figma.avif
   altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project image
+addTitleSuffix: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.

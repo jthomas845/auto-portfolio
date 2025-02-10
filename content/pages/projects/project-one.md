@@ -2,12 +2,15 @@
 type: ProjectLayout
 title: MaryBot
 colors: colors-a
-date: '2021-10-15'
+date: '2021-08-16'
 client: Publicis Sapient c/o Marriott Int'l
-description: ( add copy )
+description: >-
+  Participated in a team-led internship program, developing a chatbot app for a
+  Major Hotel Chain. Developed a backend Python webhook connecting the chatbot
+  to MongoDB and external 3rd party APIs. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/ia chat.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock

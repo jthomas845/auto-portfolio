@@ -1,12 +1,12 @@
 ---
 type: ProjectLayout
-title: Beverly Public Schools
-date: '2024-11-04'
+title: Lowe's
+date: '2020-05-10'
 client: Awesome client
-description: Teacher
+description: Sales
 featuredImage:
   type: ImageBlock
-  url: /images/BHS.jpg
+  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Project thumbnail image
   caption: ''
   elementId: ''

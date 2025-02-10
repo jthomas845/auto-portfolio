@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Publicis Sapient
 date: '2022-08-03'
 client: Software Engineer
-description: 'Associate Software Engineer | Node.js, React.js'
+description: 'Software Engineer | Node.js, React.js'
 featuredImage:
   type: ImageBlock
   url: /images/ptd7xv7u5gcpnkw1r96f.webp

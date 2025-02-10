@@ -59,7 +59,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:jarius24thomas@gmail.com",
                 "altText": ""
             },
             {
@@ -71,7 +71,7 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/jthomas845",
                 "altText": "Netlify templates"
             }
         ],
