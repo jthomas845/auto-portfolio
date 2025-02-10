@@ -53,5 +53,29 @@ bottomSections:
         fontWeight": 400
         textAlign: left
 ---
-can something eb in her
+Delivered impactful consultative projects for a major hotel chain and a beverage conglomerate, creating new front-facing components that drove user engagement and increased sales and sign-ups. 
+
+*   Authored new React.JS components which added safeguards to the hotel booking experience. 
+
+<!---->
+
+*   Oversaw handoff of code from offshore teams to North American teams, ensured smooth transitions of their pending tickets, and improved overall project throughput. 
+
+<!---->
+
+*   Monitored code deployments using Splunk, and tracked spikes in error rates to diagnose problems. 
+
+<!---->
+
+*   Integrated and tested 3rd-party Gen. AI API, creating code from Figma designs. 
+
+<!---->
+
+*   Optimized PWA performance using Lighthouse, enhancing page load and responsiveness. 
+
+<!---->
+
+*   Collaborated in cross-functional teams to deliver weekly B2B webpage updates, driving sales campaigns via SAP Hybris and Adobe Scene7. 
+
+
 
