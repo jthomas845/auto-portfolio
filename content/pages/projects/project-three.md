@@ -12,7 +12,7 @@ description: >-
   the rigidity and reliability of the vehicle.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/sailbo0t good.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
