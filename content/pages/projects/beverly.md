@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Beverly Public Schools
 date: '2024-11-04'
 client: Awesome client
-description: Substitute Teacher
+description: Teacher
 featuredImage:
   type: ImageBlock
   url: /images/BHS.jpg
