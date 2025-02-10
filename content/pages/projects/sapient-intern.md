@@ -32,11 +32,9 @@ Software Engineering Intern
 
 Publicis Sapient - New York City, NY
 
-
-
 Joined an engineering team to develop a chatbot app for a Major Hotel Chain. 
 
 *   Team split into 2 subteams, frontend and backend; I worked on backend
 
-*   Project described in full under [MaryBot](/project-one)
+*   Project described in full under [MaryBot](/projects/project-one)
 
