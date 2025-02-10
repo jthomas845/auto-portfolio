@@ -110,8 +110,6 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 ---
-I did not found a startup; this is a place holder
+I did not found a startup; this post is a place holder.
 
-
-
-on the plus side, you're reading my blog!
+on the plus side, you're reading my blog! thanks.
