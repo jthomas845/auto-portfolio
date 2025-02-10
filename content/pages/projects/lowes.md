@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Lowe's
 date: '2020-05-10'
-client: Awesome client
+client: ''
 description: Sales
 featuredImage:
   type: ImageBlock
@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Lowed nis.webp
   altText: Project image
   caption: Caption of the image
   elementId: ''
@@ -26,3 +26,15 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Sales Associate
+
+Lowe's Home Improvement - Nanuet, NY
+
+*   Provided customer service including recommendations and  store directions
+
+*   Restocked in-store returns back to the shelves
+
+*   Collected products for online orders 
+
+
+
