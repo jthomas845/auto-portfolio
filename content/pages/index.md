@@ -44,7 +44,7 @@ sections:
     actions: []
     text: ''
   - type: FeaturedItemsSection
-    title: Fast Facts
+    title: ''
     items:
       - type: FeaturedItem
         title: About Me
