@@ -202,7 +202,7 @@ sections:
       - content/pages/projects/kidztopros.md
       - content/pages/projects/cultureplay.md
     colors: colors-f
-    variant: variant-d
+    variant: variant-a
     elementId: ''
     showDate: true
     showDescription: true
