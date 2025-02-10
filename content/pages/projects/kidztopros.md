@@ -3,7 +3,7 @@ type: ProjectLayout
 title: KidzToPros
 date: '2022-06-28'
 client: ''
-description: 'Assistant Teacher, Programming'
+description: 'Instructor, Programming'
 featuredImage:
   type: ImageBlock
   url: >-
