@@ -50,6 +50,7 @@ sections:
       - type: Link
         label: See all projects
         url: /projects
+        altText: See all projects
     showDate: true
     showDescription: true
     showFeaturedImage: true
