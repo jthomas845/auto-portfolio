@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: KidzToPros
 date: '2022-06-28'
-client: Awesome client
+client: ''
 description: 'Assistant Teacher, Programming'
 featuredImage:
   type: ImageBlock
