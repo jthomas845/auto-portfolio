@@ -191,7 +191,7 @@ sections:
         text: |
           Bach. of Science in Computer Science and Robotics Engineering
 
-          Lambda Chi Alpha Fraternity -- Secretary, Recruitment Team Lead
+          Lambda Chi Alpha Fraternity -- Secretary, Recruitment Committee
         featuredImage:
           type: ImageBlock
           url: /images/gompei in da sweater.jpg
