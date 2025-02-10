@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: FIGMA-To-Code Pipeline
 colors: colors-a
-date: '2021-12-20'
+date: '2024-04-20'
 client: Awesome client
 description: >-
   Designed an AI-powered pipeline to generate usable code from Figma designs.
