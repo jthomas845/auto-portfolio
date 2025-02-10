@@ -111,7 +111,7 @@ featuredImage:
   elementId: ''
 backgroundImage:
   type: BackgroundImage
-  url: /images/dark conc.png
+  url: /images/dark conc final.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
