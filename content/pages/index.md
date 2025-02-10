@@ -55,6 +55,7 @@ sections:
       - content/pages/projects/beverly.md
       - content/pages/projects/kidztopros.md
       - content/pages/projects/cultureplay.md
+      - content/pages/projects/tfo.md
     colors: colors-f
     variant: variant-b
     elementId: ''
