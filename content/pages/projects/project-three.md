@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: SailBot
 colors: colors-a
-date: '2022-04-28'
+date: ''
 client: WPI
 description: >-
   The goal of this project is to improve upon prior iterations of SailBot, an
