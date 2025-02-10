@@ -13,7 +13,7 @@ export default function FeaturedItem(props) {
     return (
         <article
             id={elementId || null}
-            className={classNames('sb-component', 'sb-component-block', 'sb-component-item', mapStyles(otherSelfStyles))}
+            className={classNames('sb-component', 'sb-component-block', 'sb-component-item', 'h-full', mapStyles(otherSelfStyles))}
             style={{
                 borderWidth: borderWidth ? `${borderWidth}px` : null
             }}
