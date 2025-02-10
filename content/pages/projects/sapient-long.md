@@ -15,6 +15,7 @@ media:
   altText: Project image
   caption: Caption of the image
   elementId: ''
+  url: /images/ptd7xv7u5gcpnkw1r96f.webp
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
