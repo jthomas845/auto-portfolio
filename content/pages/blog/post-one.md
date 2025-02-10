@@ -109,6 +109,13 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 I did not found a startup; this post is a place holder.
 
