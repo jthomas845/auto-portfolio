@@ -29,7 +29,7 @@ media:
 
 <!---->
 
-*   Enhancing skills in Python and Agile teamwork, while gaining exposure to Google Cloud tools and N
+*   Enhancing skills in Python and Agile teamwork, while gaining exposure to Google Cloud tools and Natural Language Processing
 
 > “Everybody should learn to program a computer, because it teaches you how to think.”
 
