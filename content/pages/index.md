@@ -189,6 +189,8 @@ sections:
         title: About My Education
         subtitle: ''
         text: |
+          Worcester Polytechnic Institute, Class of 2022
+
           Bach. of Science in Computer Science and Robotics Engineering
 
           Lambda Chi Alpha Fraternity -- Secretary, Recruitment Committee
