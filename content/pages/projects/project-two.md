@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: FIGMA-To-Code Pipeline
+title: Figma-To-Code Pipeline
 colors: colors-a
 date: '2024-04-14'
 client: Publicis Sapient
