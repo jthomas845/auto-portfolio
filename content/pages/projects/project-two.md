@@ -4,7 +4,9 @@ title: FIGMA-To-Code Pipeline
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ( add copy )
+description: >-
+  Designed a pipeline utilizing 3rd-party Gen. AI and Python to generate usable
+  code from Figma designs. 
 featuredImage:
   type: ImageBlock
   url: /images/figma.avif
