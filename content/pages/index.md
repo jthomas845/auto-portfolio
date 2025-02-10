@@ -43,6 +43,47 @@ sections:
     type: HeroSection
     actions: []
     text: ''
+  - type: FeaturedProjectsSection
+    subtitle: Work Experience c. 2019 - 2025
+    actions:
+      - type: Link
+        label: See all projects
+        url: /projects
+    projects:
+      - content/pages/projects/sapient-long.md
+      - content/pages/projects/sapient-intern.md
+      - content/pages/projects/beverly.md
+      - content/pages/projects/kidztopros.md
+      - content/pages/projects/cultureplay.md
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
+    showDate: true
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-end
+    title: Work
   - type: FeaturedItemsSection
     title: ''
     items:
@@ -151,47 +192,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: FeaturedProjectsSection
-    subtitle: Work Experience c. 2019 - 2025
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    projects:
-      - content/pages/projects/sapient-long.md
-      - content/pages/projects/sapient-intern.md
-      - content/pages/projects/beverly.md
-      - content/pages/projects/kidztopros.md
-      - content/pages/projects/cultureplay.md
-    colors: colors-f
-    variant: variant-b
-    elementId: ''
-    showDate: true
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    title: Work
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
