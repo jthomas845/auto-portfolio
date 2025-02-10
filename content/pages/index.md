@@ -77,7 +77,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: About This Webpage
-        subtitle: 'Tech Stack: Node.js, Netlify, GitHub'
+        subtitle: ''
         text: >
           I’ve built and shared this website to introduce myself and open up my
           network to new opportunities.
