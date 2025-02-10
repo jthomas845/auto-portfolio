@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/BHS.jpg
   altText: Project thumbnail image
-  caption: ''
+  caption: Beverly
   elementId: ''
 media:
   type: ImageBlock
