@@ -10,7 +10,7 @@ description: >-
   chatbot to MongoDB and external 3rd party APIs. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/ia chat.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
