@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-10-15'
 client: Publicis Sapient c/o Marriott Int'l
 description: >-
-  Participated in a team-led engineering internship program to develop a chatbot
-  app for a Major Hotel Chain. Developed a backend Python webhook connecting the
-  chatbot to MongoDB and external 3rd party APIs. 
+  Participated in a team-led internship program, developing a chatbot app for a
+  Major Hotel Chain. Developed a backend Python webhook connecting the chatbot
+  to MongoDB and external 3rd party APIs. 
 featuredImage:
   type: ImageBlock
   url: /images/ia chat.webp
