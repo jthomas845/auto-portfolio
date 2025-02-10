@@ -22,7 +22,7 @@ export default function FeaturedItem(props) {
             {title && <h3 className={classNames(styles.title ? mapStyles(styles.title) : null)}>{title}</h3>}
             {subtitle && <p className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': title })}>{subtitle}</p>}
             {featuredImage && (
-                <div className="mb-6">
+                <div className="mb-6 pt-2">
                     <ImageBlock {...featuredImage} className="inline-block" />
                 </div>
             )}
