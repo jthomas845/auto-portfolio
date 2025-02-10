@@ -26,3 +26,12 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Teacher
+
+Beverly Public Schools - Beverly, MA
+
+*   Coordinated with a school district representative to plan presentations for middle school and high school students. 
+
+*   Provided instruction in numerous subjects, providing support and looking out for student safety 
+
+
