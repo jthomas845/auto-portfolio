@@ -249,7 +249,6 @@ sections:
     posts:
       - content/pages/blog/post-seven.md
       - content/pages/blog/post-one.md
-      - content/pages/blog/post-six.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
