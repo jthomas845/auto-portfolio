@@ -7,7 +7,7 @@ client: Awesome client
 description: ( add copy )
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/figma.avif
   altText: Project thumbnail image
 media:
   type: ImageBlock
