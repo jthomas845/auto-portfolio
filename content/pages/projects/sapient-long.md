@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Publicis Sapient
 date: '2022-08-03'
-client: Software Engineer
+client: ''
 description: 'Software Engineer | Next.js, React, JS/TypeScript, Python, Gen. AI'
 featuredImage:
   type: ImageBlock
