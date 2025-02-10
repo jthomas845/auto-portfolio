@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Lowe's
 date: '2020-05-10'
-client: Awesome client
+client: ''
 description: Sales
 featuredImage:
   type: ImageBlock
