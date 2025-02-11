@@ -229,8 +229,8 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
-          - pb-36
+          - pt-10
+          - pb-2
           - pl-4
           - pr-4
         justifyContent: center
