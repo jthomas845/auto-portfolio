@@ -91,7 +91,7 @@ sections:
     subtitle: Work Experience c. 2019 - 2025
     actions:
       - type: Link
-        label: See all projects
+        label: See all work
         url: /work
     projects:
       - content/pages/projects/sapient-long.md
