@@ -35,7 +35,7 @@
     "h4": {
         "size": "3xl",
         "weight": "medium",
-        "decoration": "underline",
+        "decoration": "none",
         "case": "uppercase",
         "letterSpacing": "normal"
     },
