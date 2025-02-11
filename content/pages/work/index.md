@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Work
+title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -11,6 +11,8 @@ backgroundImage:
   opacity: 50
 projectFeed:
   type: ProjectFeedSection
+  projects:
+      - work/beverly
   colors: colors-f
   showDate: false
   showDescription: true
