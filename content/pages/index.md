@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Jarius Thomas
-    subtitle: "Software Developer\_ |\_ Robotics Engineer\_ |\_ Digital Artist\_ |\_ Consultant"
+    subtitle: "Software Developer\_ |\_ Robotics Engineer\_ |\_ Digital Artist\_ |\_ Consultant  |  Instructor"
     styles:
       self:
         height: auto
