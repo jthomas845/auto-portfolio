@@ -119,7 +119,11 @@ sections:
         padding:
           - pt-24
           - pb-24
-sections:
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
       subtitle:
         textAlign: left
       actions:
@@ -134,8 +138,12 @@ sections:
         text: >
           Some of my favorite programming languages are Python, Java, and
           JavaScript.
+
+
           Some topics I really care about include Web Development, Machine
           Learning, Computer Vision, Unmanned Robotics and Industrial Robotics.
+
+
           I grew up with a teacher and an engineer as parents; funny enough, the
           jobs I've worked over my career have primarily been as an engineer or
           as a teacher.
@@ -159,8 +167,12 @@ sections:
         text: >
           I’ve built and shared this website to introduce myself and open up my
           network to new opportunities.
+
+
           You can explore the work I’ve done in the past few years, and connect
           with me using the contact resources at the bottom.
+
+
           **Tech Stack** of this webpage inlcldues: Node.js, Netlify, GitHub
         actions:
           - type: Button
@@ -181,7 +193,9 @@ sections:
         subtitle: ''
         text: |
           Worcester Polytechnic Institute, Class of 2022
+
           Bach. of Science in Computer Science and Robotics Engineering
+
           Lambda Chi Alpha Fraternity -- Secretary, Recruitment Committee
         featuredImage:
           type: ImageBlock
