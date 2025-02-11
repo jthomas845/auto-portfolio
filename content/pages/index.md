@@ -35,7 +35,7 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: right
+        textAlign: center
       text:
         textAlign: left
       actions:
