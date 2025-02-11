@@ -23,7 +23,7 @@
     h5,
     h6 {
         @apply break-words;
-        line-height: 1.15;
+        line-height: 1;
     }
 }
 
@@ -43,7 +43,9 @@
         em {
             @apply italic;
         }
-        h1,
+        h1 {
+            font-size: 30vw;
+        }
         h2,
         h3,
         h4,
