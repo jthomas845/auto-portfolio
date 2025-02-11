@@ -2,8 +2,8 @@
 type: ProjectLayout
 title: KidzToPros
 date: '2022-06-28'
-client: Awesome client
-description: 'Assistant Teacher, Programming'
+client: ''
+description: 'Instructor, Programming'
 featuredImage:
   type: ImageBlock
   url: >-
@@ -13,7 +13,8 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/KidzToPros_Computer_-_28de80_-_d833bbecdd7ee0ad826eef2ed8ca3ba549039845.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''
@@ -27,3 +28,10 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Instructor
+
+KidzToPros - Medford, MA
+
+*   Instructed and managed a group of students through KidzToPros tech curriculum.
+    *   Taught topics including control loops, variables, and booleans
+*   Signed students in/out with family and guardians, ensuring a solid headcount with each student accounted for

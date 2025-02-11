@@ -13,8 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: "I’m a software developer, robotics engineer, consultant,\_digital artist, and a bunch of other titles and buzz words."
-    subtitle: My name is Jarius Thomas. Hello!
+    title: Jarius Thomas
+    subtitle: "Software Developer\_ |\_ Robotics Engineer\_ |\_ Digital Artist\_ |\_ ex-Consultant"
     styles:
       self:
         height: auto

@@ -26,3 +26,13 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Sales Associate
+
+The Fragrance Outlet - Assembly Row, Somerville MA
+
+
+
+*   provided customer service including recommendations, loyalty rewards, and BOGO discounts
+
+*   sold over 30 niche colognes and perfumes during the 2024 Holiday Season
+

@@ -1,8 +1,8 @@
 ---
 type: ProjectLayout
-title: CulturePlay
+title: CulturePlay Computer Science Academy
 date: '2019-07-03'
-client: Awesome client
+client: ''
 description: 'Assistant Teacher, Robotics'
 featuredImage:
   type: ImageBlock
@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/girl-with-robotics-kit-1.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''
@@ -26,3 +26,11 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Collaborated with other teachers and assistant teachers at CulturePlay’s Computer Science Academy to introduce fifth and sixth graders to game design and programming concepts with a hands-on experience. 
+
+*   Guided children through cooperatively assembling, test driving, and programming their VEX robots. 
+
+<!---->
+
+*   Facilitated a mock VEX Ringmaster competition at the end of the camp. 
+
