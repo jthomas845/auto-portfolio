@@ -12,7 +12,7 @@ backgroundImage:
 projectFeed:
   type: ProjectFeedSection
   projects:
-      - work/beverly
+      - content/pages/work/beverly
   colors: colors-f
   showDate: false
   showDescription: true
