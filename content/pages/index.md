@@ -34,6 +34,7 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: center
+        fontWeight: 400
       subtitle:
         textAlign: center
         fontWeight: 400
