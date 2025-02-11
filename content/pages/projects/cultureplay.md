@@ -2,6 +2,7 @@
 type: ProjectLayout
 title: CulturePlay Computer Science Academy
 date: '2019-07-03'
+job: true
 client: ''
 description: 'Assistant Teacher, Robotics'
 featuredImage:
