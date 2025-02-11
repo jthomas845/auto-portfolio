@@ -10,7 +10,7 @@ const Page: React.FC<PageComponentProps> = (props) => {
 export function getStaticPaths() {
     const allData = allContent();
     const paths = allData.map((obj) => obj.__metadata.urlPath).filter(Boolean);
-    return { paths, fallback: true };
+    return { paths, fallback: false };
 }
 
 export function getStaticProps({ params }) {
