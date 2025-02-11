@@ -2,6 +2,10 @@
 type: ProjectFeedLayout
 title: Projects
 colors: colors-a
+items:
+      - content/pages/work/beverly.md
+      - content/pages/projects/tfo.md
+      - content/pages/projects/lowes.md
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
@@ -17,10 +21,6 @@ projectFeed:
   showReadMoreLink: true
   showFeaturedImage: true
   variant: variant-a
-  projects:
-      - content/pages/work/beverly.md
-      - content/pages/projects/tfo.md
-      - content/pages/projects/lowes.md
   styles:
     self:
       width: narrow
