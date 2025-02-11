@@ -18,9 +18,9 @@ projectFeed:
   showFeaturedImage: true
   variant: variant-a
   projects:
-      - content/pages/work/beverly
-      - content/pages/projects/tfo
-      - content/pages/projects/lowes
+      - content/pages/work/beverly.md
+      - content/pages/projects/tfo.md
+      - content/pages/projects/lowes.md
   styles:
     self:
       width: narrow
