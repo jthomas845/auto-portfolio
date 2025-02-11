@@ -14,11 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Jarius Thomas
-    subtitle: "Software Developer\_ |\_ Robotics Engineer\_ |\_ Digital Artist\_ |\_ ex-Consultant"
+    subtitle: >-
+      Software Developer ++ Robotics Engineer ++ Digital Artist ++ Consultant ++
+      Instructor
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         margin:
           - mt-0
           - mb-0
@@ -27,15 +29,17 @@ sections:
         padding:
           - pt-20
           - pb-10
-          - pl-4
-          - pr-4
+          - pl-6
+          - pr-6
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: center
+        fontWeight: 500
       subtitle:
-        textAlign: right
+        textAlign: center
+        fontWeight: 400
       text:
         textAlign: left
       actions:
