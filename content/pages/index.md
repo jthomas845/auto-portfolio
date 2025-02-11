@@ -15,7 +15,7 @@ sections:
     backgroundSize: inset
     title: Jarius Thomas
     subtitle: >-
-      Software Developer ++ Robotics Engineer ++ Digital Artist ++ Consultant ++
+      Software Developer += Robotics Engineer += Digital Artist += Consultant +=
       Instructor
     styles:
       self:
