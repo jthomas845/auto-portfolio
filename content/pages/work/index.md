@@ -1,6 +1,7 @@
 ---
 type: ProjectFeedLayout
 title: Work
+isJobs: true
 colors: colors-a
 items:
   - content/pages/work/beverly.md
