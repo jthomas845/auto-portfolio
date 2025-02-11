@@ -11,14 +11,16 @@ backgroundImage:
   opacity: 50
 projectFeed:
   type: ProjectFeedSection
-  projects:
-      - content/pages/work/beverly
   colors: colors-f
   showDate: false
   showDescription: true
   showReadMoreLink: true
   showFeaturedImage: true
   variant: variant-a
+  projects:
+      - content/pages/work/beverly
+      - content/pages/projects/tfo
+      - content/pages/projects/lowes
   styles:
     self:
       width: narrow
