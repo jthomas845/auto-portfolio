@@ -31,7 +31,7 @@ sections:
           - pr-6
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: row-reverse
       title:
         textAlign: center
       subtitle:
