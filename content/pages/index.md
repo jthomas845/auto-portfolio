@@ -119,7 +119,7 @@ sections:
         padding:
           - pt-24
           - pb-24
-@@ -127,224 +64,14 @@ sections:
+sections:
       subtitle:
         textAlign: left
       actions:
@@ -333,3 +333,4 @@ sections:
       text:
         textAlign: left
 addTitleSuffix: true
+---
