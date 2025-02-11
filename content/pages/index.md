@@ -15,7 +15,7 @@ sections:
     backgroundSize: inset
     title: Jarius Thomas
     subtitle: >-
-      Software Developer ++ Robotics Engineer ++ Digital Artist ++ Consultant ++
+      Software Developer += Robotics Engineer += Digital Artist += Consultant +=
       Instructor
     styles:
       self:
@@ -74,8 +74,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-2
+          - pt-24
+          - pb-24
           - pl-4
           - pr-4
         justifyContent: center
@@ -118,8 +118,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-10
-          - pb-0
+          - pt-24
+          - pb-24
           - pl-4
           - pr-4
         justifyContent: center
@@ -229,8 +229,8 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-12
-          - pb-2
+          - pt-28
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
@@ -266,8 +266,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-30
+          - pt-28
+          - pb-48
           - pl-4
           - pr-4
         justifyContent: center
