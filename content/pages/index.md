@@ -93,6 +93,7 @@ sections:
       - type: Link
         label: See all work
         url: /work
+        altText: See all work
     projects:
       - content/pages/projects/sapient-long.md
       - content/pages/projects/sapient-intern.md
