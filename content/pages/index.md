@@ -30,7 +30,7 @@ sections:
           - pl-6
           - pr-6
         alignItems: flex-start
-        justifyContent: center
+        justifyContent: flex-start
         flexDirection: row-reverse
       title:
         textAlign: center
