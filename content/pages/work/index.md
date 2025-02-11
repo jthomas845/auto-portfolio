@@ -1,11 +1,11 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Work
 colors: colors-a
 items:
-      - content/pages/work/beverly.md
-      - content/pages/projects/tfo.md
-      - content/pages/projects/lowes.md
+  - content/pages/work/beverly.md
+  - content/pages/projects/tfo.md
+  - content/pages/projects/lowes.md
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
