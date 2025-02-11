@@ -42,7 +42,7 @@
     "h5": {
         "size": "xl",
         "weight": "medium",
-        "decoration": "underline",
+        "decoration": "none",
         "case": "uppercase",
         "letterSpacing": "normal"
     },
