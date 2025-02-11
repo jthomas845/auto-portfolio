@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Jarius Thomas
     subtitle: "Software Developer\_ |\_ Robotics Engineer\_ |\_ Digital Artist\_ |\_ Consultant  |  Instructor"
     styles:
