@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Jarius Thomas
-    subtitle: My name is Jarius Thomas. Hello!
+    subtitle: "Software Developer\_ |\_ Robotics Engineer\_ |\_ Digital Artist\_ |\_ ex-Consultant"
     styles:
       self:
         height: auto
