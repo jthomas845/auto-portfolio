@@ -49,7 +49,7 @@
     "h6": {
         "size": "lg",
         "weight": "medium",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "uppercase",
         "letterSpacing": "normal"
     },
