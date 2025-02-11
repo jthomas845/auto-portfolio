@@ -67,10 +67,13 @@ const PropsResolvers: Partial<Record<ContentObjectType, ResolverFunction>> = {
         };
     },
     ProjectFeedLayout: (props, allData) => {
-        if (props.isJobs? == true)
-            const allProjects = getAllJobsSorted(allData);    
+        if (props.isJobs? == true){
+            const allProjects = getAllJobsSorted(allData);
+        }
         else
+        {
             const allProjects = getAllProjectsSorted(allData);
+        }
         return {
             ...(props as ProjectFeedLayout),
             items: allProjects
