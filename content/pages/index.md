@@ -28,7 +28,7 @@ sections:
           - pt-20
           - pb-10
           - pl-14
-          - pr-10
+          - pr-14
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
