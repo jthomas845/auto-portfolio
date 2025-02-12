@@ -9,8 +9,10 @@ description: >-
   for 6th to 12th grade students
 featuredImage:
   type: ImageBlock
-  url: /images/figma.avif
-  altText: Project thumbnail image
+  url: /images/BHS.jpg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
   type: ImageBlock
   url: /images/BHS.jpg
