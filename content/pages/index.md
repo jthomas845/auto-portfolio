@@ -99,7 +99,6 @@ sections:
       - content/pages/projects/sapient-intern.md
       - content/pages/projects/kidztopros.md
       - content/pages/projects/cultureplay.md
-      - content/pages/projects/tfo.md
       - content/pages/projects/lowes.md
     colors: colors-f
     variant: variant-d
