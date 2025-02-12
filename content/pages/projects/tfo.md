@@ -2,7 +2,8 @@
 type: ProjectLayout
 title: The Fragrance Outlet
 date: '2024-11-08'
-client: Awesome client
+job: true
+client: ''
 description: Sales
 featuredImage:
   type: ImageBlock
