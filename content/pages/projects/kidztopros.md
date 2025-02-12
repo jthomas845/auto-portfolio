@@ -1,6 +1,7 @@
 ---
 type: ProjectLayout
 title: KidzToPros
+job: true
 date: '2022-06-28'
 client: ''
 description: 'Instructor, Programming'

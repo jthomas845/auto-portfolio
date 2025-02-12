@@ -2,6 +2,7 @@
 type: ProjectLayout
 title: Industrial Robotics
 date: '2022-03-24'
+job: false
 client: Awesome client
 description: >-
   The ABB IRB1600 is a mechnical robot that uses RAPID programming

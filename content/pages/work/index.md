@@ -1,7 +1,12 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Work
+isJobs: true
 colors: colors-a
+items:
+  - content/pages/work/beverly.md
+  - content/pages/projects/tfo.md
+  - content/pages/projects/lowes.md
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
@@ -11,10 +16,8 @@ backgroundImage:
   opacity: 50
 projectFeed:
   type: ProjectFeedSection
-  projects:
-      - content/pages/work/beverly
   colors: colors-f
-  showDate: false
+  showDate: true
   showDescription: true
   showReadMoreLink: true
   showFeaturedImage: true

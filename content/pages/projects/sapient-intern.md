@@ -2,6 +2,7 @@
 type: ProjectLayout
 title: Publicis Sapient
 date: '2021-06-28'
+job: true
 client: ''
 description: >-
   Software Engineering Intern | Python, Google Cloud, Data Scraping, API

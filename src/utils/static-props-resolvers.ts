@@ -67,7 +67,15 @@ const PropsResolvers: Partial<Record<ContentObjectType, ResolverFunction>> = {
         };
     },
     ProjectFeedLayout: (props, allData) => {
-        const allProjects = getAllProjectsSorted(allData);
+        console.log("props: ", props)
+        var allProjects = []
+        if (props.hasOwnProperty('isJobs') && props["isJobs"]){
+            allProjects = getAllJobsSorted(allData);
+        }
+        else
+        {
+            allProjects = getAllProjectsSorted(allData);
+        }
         return {
             ...(props as ProjectFeedLayout),
             items: allProjects
@@ -89,7 +97,14 @@ function getAllPostsSorted(objects: ContentObject[]) {
 }
 
 function getAllProjectsSorted(objects: ContentObject[]) {
-    const all = objects.filter((object) => object.__metadata?.modelName === 'ProjectLayout') as ProjectLayout[];
+    const all = objects.filter((object) => object.__metadata?.modelName === 'ProjectLayout' && (object as ProjectLayout).job != true) as ProjectLayout[];
+    const sorted = all.sort((projectA, projectB) => new Date(projectB.date).getTime() - new Date(projectA.date).getTime());
+    return sorted;
+}
+
+
+function getAllJobsSorted(objects: ContentObject[]) {
+    const all = objects.filter((object) => object.__metadata?.modelName === 'ProjectLayout' && (object as ProjectLayout).job == true) as ProjectLayout[];
     const sorted = all.sort((projectA, projectB) => new Date(projectB.date).getTime() - new Date(projectA.date).getTime());
     return sorted;
 }

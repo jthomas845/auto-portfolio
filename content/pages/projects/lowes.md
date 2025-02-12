@@ -1,6 +1,7 @@
 ---
 type: ProjectLayout
 title: Lowe's
+job: true
 date: '2020-05-10'
 client: ''
 description: Sales
