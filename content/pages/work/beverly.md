@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Teacher
 colors: colors-a
-date: '2024-04-14'
+date: '2024-11-04'
 client: Beverly
 description: >-
   Coordinated with a school district representative to organize presentations
