@@ -85,7 +85,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects from Work, Personal life, and Academia'
+    subtitle: 'Projects (from Work, Personal, for Academia, etc.)'
     title: Projects
   - type: FeaturedProjectsSection
     subtitle: Work Experience c. 2019 - 2025
