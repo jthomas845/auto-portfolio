@@ -5,28 +5,16 @@ colors: colors-a
 date: '2024-04-14'
 client: Beverly
 description: >-
-  Designed an AI-powered pipeline to generate usable code from Figma designs.
-  This pipeline utilized 3rd-party Gen. AI from builder.io, and Python scripts
-  to clean the generated code.
+  Coordinated with a school district representative to organize presentations
+  for 6th to 12th grade students
 featuredImage:
   type: ImageBlock
   url: /images/figma.avif
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/BHS.jpg
   altText: Project image
 addTitleSuffix: false
 ---
-This could be the teacher page
-
-
-
-Designed an AI-powered pipeline to generate usable code from Figma designs. This pipeline utilized 3rd-party Gen. AI from builder.io, and Python scripts to clean the generated code.
-
-> “The Builder Figma plugin helps you import your Figma design directly into Builder while\*\* letting AI take care of the details\*\*<sub>.</sub>”
->
-> ```
-> \- [builder.io docs](https://www.builder.io/c/docs/import-from-figma)
-> ```
-
+Coordinated with a school district representative to organize presentations for students. Collaborated with staff at two district buildings to plan daily schedules. Delivered lessons to 40-75 students throughout the day, and reexplained key concepts to students needing additional support.
