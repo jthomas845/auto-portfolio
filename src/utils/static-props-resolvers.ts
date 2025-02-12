@@ -97,14 +97,14 @@ function getAllPostsSorted(objects: ContentObject[]) {
 }
 
 function getAllProjectsSorted(objects: ContentObject[]) {
-    const all = objects.filter((object) => object.__metadata?.modelName === 'ProjectLayout' && object.__metadata?.job != true) as ProjectLayout[];
+    const all = objects.filter((object) => object.__metadata?.modelName === 'ProjectLayout' && (object as ProjectLayout).job != true) as ProjectLayout[];
     const sorted = all.sort((projectA, projectB) => new Date(projectB.date).getTime() - new Date(projectA.date).getTime());
     return sorted;
 }
 
 
 function getAllJobsSorted(objects: ContentObject[]) {
-    const all = objects.filter((object) => object.__metadata?.modelName === 'ProjectLayout' && object.__metadata?.job == true) as ProjectLayout[];
+    const all = objects.filter((object) => object.__metadata?.modelName === 'ProjectLayout' && (object as ProjectLayout).job == true) as ProjectLayout[];
     const sorted = all.sort((projectA, projectB) => new Date(projectB.date).getTime() - new Date(projectA.date).getTime());
     return sorted;
 }

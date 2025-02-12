@@ -542,6 +542,7 @@ export type ProjectLayout = BaseContentObject & {
     featuredImage?: ImageBlock;
     media?: ImageBlock | VideoBlock;
     bottomSections?: SectionModels[];
+    job?: boolean;
     metaTitle?: string;
     metaDescription?: string;
     addTitleSuffix?: boolean;
