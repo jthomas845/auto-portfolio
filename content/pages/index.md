@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Jarius Thomas
-    subtitle: >-
-      Software Developer += Robotics Engineer += Digital Artist += Consultant +=
-      Instructor
+    subtitle: Software Developer += Robotics Engineer += Consultant += Instructor
     styles:
       self:
         height: auto
@@ -85,7 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects from Work, Personal, and Academia'
+    subtitle: 'Projects (from Work, Personal, for Academia, etc.)'
     title: Projects
   - type: FeaturedProjectsSection
     subtitle: Work Experience c. 2019 - 2025
@@ -117,7 +115,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
+          - pt-10
           - pb-24
           - pl-4
           - pr-4
@@ -265,7 +263,7 @@ sections:
           - mr-0
         padding:
           - pt-28
-          - pb-48
+          - pb-10
           - pl-4
           - pr-4
         justifyContent: center
