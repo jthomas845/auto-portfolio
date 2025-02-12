@@ -228,7 +228,7 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
+          - pt-3
           - pb-36
           - pl-3
           - pr-3
