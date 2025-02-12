@@ -228,10 +228,10 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
+          - pt-9
+          - pb-11
+          - pl-3
+          - pr-3
         justifyContent: center
       title:
         textAlign: left
@@ -251,7 +251,6 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/post-seven.md
-      - content/pages/blog/post-one.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
