@@ -10,7 +10,7 @@ description: >-
   angular, and complex movements in the joint space
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/ABB.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
