@@ -97,7 +97,7 @@ bottomSections:
         textAlign: left
 topSections:
   - type: FeaturedProjectsSection
-    subtitle: Projects
+    subtitle: Featured
     actions:
       - type: Link
         label: See all projects
