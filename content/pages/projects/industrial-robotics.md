@@ -29,3 +29,15 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+ww
+
+
+
+The ABB IRB 1600-6/1.45 robot is a 6-axis robot arm, it has a payload of 6 kg and a reach of 1450 mm. Manufacturing applications include Additive Manufacturing.
+
+Common applications of the ABB IRB 1600-6/1.45 include: Additive Manufacturing, Dispensing, Remote TCP, Welding.
+
+The ABB IRB 1600-6/1.45 is manufactured by [ABB](https://robodk.com/library#filter?brand=abb).
+
+
+
