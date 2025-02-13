@@ -6,7 +6,7 @@ job: false
 client: ''
 description: >-
   Programmed the ABB IRB1600, a 6-DOF mechnaical robot, to complete 3D
-  challenges. Learned the RAPID programming languguage to script out linearand
+  challenges. Learned the RAPID programming language to script out linear and
   complex movements  in the joint space
 featuredImage:
   type: ImageBlock
