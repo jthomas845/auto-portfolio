@@ -98,10 +98,7 @@ bottomSections:
 topSections:
   - type: FeaturedProjectsSection
     subtitle: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+    actions: []
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
