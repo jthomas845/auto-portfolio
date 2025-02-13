@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/ABB.jpg
   altText: The ABB IRB1600
-  caption: Caption of the image
+  caption: The ABB IRB1600
   elementId: ''
 media:
   type: ImageBlock
