@@ -537,7 +537,7 @@ export type ProjectLayout = BaseContentObject & {
     type: 'ProjectLayout';
     title: string;
     date: string;
-    endDate: string;
+    endDate?: string;
     client?: string;
     description?: string;
     featuredImage?: ImageBlock;
