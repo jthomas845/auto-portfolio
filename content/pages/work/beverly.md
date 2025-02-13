@@ -1,6 +1,7 @@
 ---
 type: ProjectLayout
 title: Teacher
+job: true
 colors: colors-a
 date: '2024-11-04'
 client: Beverly
