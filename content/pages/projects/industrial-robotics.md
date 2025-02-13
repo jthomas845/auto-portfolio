@@ -5,8 +5,8 @@ date: '2022-03-24'
 job: false
 client: ''
 description: >-
-  The ABB IRB1600 is a mechnical robot that uses RAPID programming
-  languguage....
+  Programmed the ABB IRB1600, a 6-DOF mechnaical robot, to complete 3D
+  challengesRAPID programming languguage....
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
