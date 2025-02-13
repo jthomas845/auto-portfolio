@@ -22,7 +22,7 @@
     h4,
     h5,
     h6 {
-        @apply break-words;
+        padding: 10px;
         line-height: 1;
     }
 }
