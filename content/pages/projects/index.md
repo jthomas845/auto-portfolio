@@ -131,7 +131,7 @@ topSections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    title: Featured Projects
+    title: ''
   - type: DividerSection
     title: Divider
     elementId: ''
