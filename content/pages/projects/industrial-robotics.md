@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/ABB.jpg
-  altText: altText of the image
+  altText: The ABB IRB1600
   caption: Caption of the image
   elementId: ''
 media:
