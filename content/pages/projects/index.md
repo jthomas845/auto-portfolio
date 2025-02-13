@@ -97,7 +97,7 @@ bottomSections:
         textAlign: left
 topSections:
   - type: FeaturedProjectsSection
-    subtitle: ''
+    subtitle: Featured Projects
     actions: []
     projects:
       - content/pages/projects/project-two.md
