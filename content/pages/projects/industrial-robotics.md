@@ -10,13 +10,13 @@ description: >-
   angular, and complex movements in the joint space
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project thumbnail image
-  caption: ''
+  url: /images/ABB.jpg
+  altText: The ABB IRB1600
+  caption: The ABB IRB1600
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/ABB.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''
