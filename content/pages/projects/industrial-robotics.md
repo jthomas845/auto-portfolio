@@ -5,9 +5,9 @@ date: '2022-03-24'
 job: false
 client: ''
 description: >-
-  Used the ABB IRB1600, a 6-DOF industrial robot, to complete 3D challenges.
-  Learned the RAPID programming language to script out linear, angular, and
-  complex movements in the joint space
+  Used the ABB IRB1600, a 6-DOF industrial robot, to complete 3D puzzles and
+  challenges. Learned the RAPID programming language to script out linear,
+  angular, and complex movements in the joint space
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
