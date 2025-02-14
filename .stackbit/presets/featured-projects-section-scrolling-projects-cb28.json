@@ -1,0 +1,83 @@
+{
+    "model": "FeaturedProjectsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "scrolling projects",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "dfq"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": "Projects",
+                "actions": [
+                    {
+                        "$$type": "Link",
+                        "label": "See all projects",
+                        "altText": null,
+                        "url": "/projects",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    }
+                ],
+                "projects": [
+                    {
+                        "$$ref": "content/pages/projects/project-two.md",
+                        "$$type": "ProjectLayout"
+                    },
+                    {
+                        "$$ref": "content/pages/projects/project-three.md",
+                        "$$type": "ProjectLayout"
+                    },
+                    {
+                        "$$ref": "content/pages/projects/project-one.md",
+                        "$$type": "ProjectLayout"
+                    }
+                ],
+                "colors": "colors-f",
+                "variant": "variant-b",
+                "elementId": "",
+                "showDate": false,
+                "showDescription": true,
+                "showFeaturedImage": true,
+                "showReadMoreLink": true,
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": [
+                            "mt-0",
+                            "mb-0",
+                            "ml-0",
+                            "mr-0"
+                        ],
+                        "padding": [
+                            "pt-24",
+                            "pb-24",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-end"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-projects-section-scrolling-projects-cb28.png"
+        }
+    ]
+}
