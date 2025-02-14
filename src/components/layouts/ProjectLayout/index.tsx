@@ -19,13 +19,14 @@ type ComponentProps = PageComponentProps &
 
 const Component: React.FC<ComponentProps> = (props) => {
     const { global, ...page } = props;
-    const { title, date, endDate, client, description, markdownContent, media, prevProject, nextProject, bottomSections = [] } = page;
+    const { title, date, endDate="", client, description, markdownContent, media, prevProject, nextProject, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MM-DD-YYYY');
 
     const dateTimeAttr2 = dayjs(endDate).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate2 = dayjs(endDate).format('MM-DD-YYYY');
-
+    console.log("ProjectLayout speaking: here are the props: ", props);
+    
     return (
         <BaseLayout {...props}>
             <main id="main" className="sb-layout sb-project-layout">
@@ -35,8 +36,7 @@ const Component: React.FC<ComponentProps> = (props) => {
                             {client && <div className="text-lg uppercase mb-2 md:mb-6">{client}</div>}
                             <div className="md:flex md:justify-between">
                                 <div className="text-lg mb-6 md:mb-0 md:ml-12 md:order-last">
-                                    <time dateTime={dateTimeAttr}>{formattedDate}</time> {endDate && 
-                                        <p> - </p>  <time dateTime={dateTimeAttr2}>{formattedDate2}</time>
+                                    <time dateTime={dateTimeAttr}>{formattedDate}</time>
                                 </div>
                                 <h1 className="md:max-w-2xl md:flex-grow">{title}</h1>
                             </div>

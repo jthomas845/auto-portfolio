@@ -13,28 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## I’m Jarius Thomas, a developer, engineer, and problem solver.
-
-
-      ###### I was born and raised in New York, attended WPI in Worcester, MA,
-      and right now I'm based in Boston.
-
-
-      ###### I’m currently a free agent, looking for the next company or client
-      I can work with.
-
-
-      ###### I'm open to working remotely OR on-site, in the Boston metro or
-      anywhere in the US. (preferably the East Coast!)
-
-
-      ###### When I’m not coding, writing or working, I play music and create
-      digital art.
-
+    text: >-
+      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
+      also where I’m based. I’m currently a free agent, ex-this, ex-that,
+      ex-super big name. When I’m not coding, writing or creating, I eat
+      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
     media:
       type: ImageBlock
-      url: /images/jarius 1.jpg
+      url: /images/about.jpg
       altText: Hero image
     styles:
       self:
@@ -77,26 +63,26 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/sapient.png
+        url: /images/logo1.svg
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/marriott-logo-png-transparent.png
+        url: /images/logo2.svg
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/KDP.png
+        url: /images/logo3.svg
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/image.png
+        url: /images/logo4.svg
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/wellcore.png
+        url: /images/logo5.svg
         altText: Logo five
         caption: Logo five
-    spacing: 38
+    spacing: 3
     columns: 5
     aspectRatio: auto
     showCaption: false
@@ -145,6 +131,14 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
+            label: Twitter
+            url: 'https://twitter.com/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/'
         styles:
@@ -153,8 +147,24 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
+            label: CodePen
+            url: 'https://codepen.io/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
             label: Discord
             url: 'https://discord.com/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Instagram
+            url: 'https://www.instagram.com/'
         styles:
           self:
             textAlign: left
@@ -197,72 +207,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: C / C++
+        label: 'WEB 1, 2, 3'
       - type: Label
         label: React
       - type: Label
+        label: Microsoft Office
+      - type: Label
         label: Next.js
-      - type: Label
-        label: Java
-      - type: Label
-        label: JS and TS
-      - type: Label
-        label: HTML
-      - type: Label
-        label: CSS
-        url: ''
-      - type: Label
-        label: YAML
-        url: ''
-      - type: Label
-        label: GitHub
-        url: ''
-      - type: Label
-        label: JIRA
-        url: ''
-      - type: Label
-        label: Atlassian
-        url: ''
-      - type: Label
-        label: Scrum Methodology
-        url: ''
-      - type: Label
-        label: AWS
-        url: ''
-      - type: Label
-        label: Linux
-        url: ''
-      - type: Label
-        label: SQL
-        url: ''
-      - type: Label
-        label: NoSQL
-        url: ''
-      - type: Label
-        label: Agile
-        url: ''
-      - type: Label
-        label: TCP/IP
-        url: ''
-      - type: Label
-        label: I2C/SPI
-        url: ''
-      - type: Label
-        label: numpy
-        url: ''
-      - type: Label
-        label: scipy
-        url: ''
-      - type: Label
-        label: Machine Learning
-        url: ''
-      - type: Label
-        label: REST API
-        url: ''
       - type: Label
         label: Netlify
       - type: Label
-        label: Microsoft Office
+        label: Pancakes
+      - type: Label
+        label: C++
+      - type: Label
+        label: Swift
   - type: DividerSection
     styles:
       self:
@@ -279,11 +238,8 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |+
-      <jarius24thomas@gmail.com>
-
-      LinkedIN: <https://www.linkedin.com/in/jarius-thomas/>
-
+    text: |
+      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
@@ -300,80 +256,57 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        title: ''
-        subtitle: Experience
-        text: |+
-          **Nov. 2024 -**
+        subtitle: 'Experience:'
+        text: |-
+          **Current**
 
-          *   Beverly Public Schools - Substitute Teacher
+          * freelance @freelance.me
 
-          **Oct. - Dec. 2024**
+          **2018-2021**
 
-          *   The Fragrance Outlet - Sales Associate (Seasonal)
+          * fullstack at this startup
 
-          **2022-2024**
+          **2015**
 
-          *   Publicis Sapient - Associate Software Engineer
+          * senior front-end at this place
 
-          **Summer 2022**
+          **2013**
 
-          *   KidzToPros - Assistant Teacher
+          * intern developer at a big company
 
-          **Summer 2021**
+          **2011**
 
-          *   Publicis Sapient - Software Engineering Intern
-
-          **Summer 2020**
-
-          *   Lowe's - Sales Associate
-          *   DoorDash - Driver
-
-          **2019**
-
-          *   WellCore - Assistant Teacher
-
-          *   CulturePlay - Assistant Teacher
-
-        elementId: ''
+          * flipping burgers
         styles:
           self:
             textAlign: left
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
       - type: FeaturedItem
-        title: ''
-        subtitle: Education
-        text: >+
-          **2023**
+        subtitle: 'Education:'
+        text: |-
+          **2015-2018**
 
+          * ba computer sciense at a semi fancy school
 
-          *   AWS Certified Cloud Practitioner certificate
+          **2014**
 
+          * react certificate somewhere
 
-          **2018-2022**
+          **2011**
 
-
-          *   B.S. computer science and robotics engineering  at Worcester
-          Polytechnic Institute<sup>
-              </sup>
-
-          <sup>Note: Completing the multi-disciplinary robotics engineering
-          program at WPI requires competency in Mechanical Engineering,
-          Electrical Engineering, and Computer Science.</sup>
-
-
-          **2018**
-
-
-          *   High School: West Nyack, New York
-
-          *   Participated in AP Physics, Calculus, Statistics, Literature,
-          History
-
-          *   Captain of Cross Country and Outdoor Track
-
-        elementId: ''
+          * my highschool
         styles:
           self:
             textAlign: left
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
     columns: 2
     spacingX: 60
     spacingY: 60
