@@ -15,7 +15,7 @@ projectFeed:
   colors: colors-f
   showDate: false
   showDescription: true
-  showReadMoreLink: false
+  showReadMoreLink: true
   showFeaturedImage: true
   variant: variant-a
   styles:
@@ -96,81 +96,4 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
-topSections:
-  - type: FeaturedProjectsSection
-    subtitle: Featured Projects
-    actions: []
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    colors: colors-f
-    variant: variant-b
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-3
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    title: ''
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-1
-          - pb-1
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-  - type: HeroSection
-    title: All projects
-    subtitle: ''
-    actions: []
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 ---
