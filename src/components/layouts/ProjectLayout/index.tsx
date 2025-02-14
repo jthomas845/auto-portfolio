@@ -25,7 +25,8 @@ const Component: React.FC<ComponentProps> = (props) => {
 
     const dateTimeAttr2 = dayjs(endDate).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate2 = dayjs(endDate).format('MM-DD-YYYY');
-    console.log("ProjectLayout speaking: here are the props: ", props)
+    console.log("ProjectLayout speaking: here are the props: ", props);
+    
     return (
         <BaseLayout {...props}>
             <main id="main" className="sb-layout sb-project-layout">
