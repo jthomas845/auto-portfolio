@@ -31,6 +31,12 @@ export const ProjectLayoutModel: Model = {
             required: true
         },
         {
+            type: 'date',
+            name: 'endDate',
+            label: 'End Date',
+            required: false
+        },
+        {
             type: 'string',
             name: 'client',
             label: 'Client',
