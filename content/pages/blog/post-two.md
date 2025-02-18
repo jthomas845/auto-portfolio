@@ -2,6 +2,7 @@
 type: PostLayout
 title: The Great Unbundling
 colors: colors-a
+slug: 'post-two'
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg

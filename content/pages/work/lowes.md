@@ -1,5 +1,6 @@
 ---
-type: ProjectLayout
+type: WorkLayout
+slug: 'lowes'
 title: Lowe's
 job: true
 date: '2020-05-10'
@@ -27,15 +28,13 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+
 Sales Associate
 
 Lowe's Home Improvement - Nanuet, NY
 
-*   Provided customer service including recommendations and  store directions
+- Provided customer service including recommendations and store directions
 
-*   Restocked in-store returns back to the shelves
+- Restocked in-store returns back to the shelves
 
-*   Collected products for online orders 
-
-
-
+- Collected products for online orders

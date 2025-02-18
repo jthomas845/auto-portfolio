@@ -1,12 +1,12 @@
 import { Model } from '@stackbit/types';
 import { seoFields, seoFieldGroups } from './seo-fields';
 
-export const ProjectLayoutModel: Model = {
+export const WorkLayoutModel: Model = {
     type: 'page',
-    name: 'ProjectLayout',
+    name: 'WorkLayout',
     label: 'Project page',
-    urlPath: '/projects/{slug}',
-    filePath: 'content/pages/projects/{slug}.md',
+    urlPath: '/work/{slug}',
+    filePath: 'content/pages/work/{slug}.md',
     thumbnail: 'https://assets.stackbit.com/components/models/thumbnails/default.png',
     fieldGroups: [
         ...seoFieldGroups,

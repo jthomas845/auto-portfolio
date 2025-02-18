@@ -26,6 +26,13 @@ export const PageLayoutModel: Model = {
             required: true
         },
         {
+            type: 'string',
+            name: 'slug',
+            label: 'Slug',
+            default: 'This is the slug',
+            required: true
+        },
+        {
             type: 'list',
             name: 'sections',
             label: 'Sections',

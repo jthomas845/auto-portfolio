@@ -1,5 +1,7 @@
 ---
-type: ProjectLayout
+type: WorkLayout
+slug: "tfo"
+
 title: The Fragrance Outlet
 date: '2024-11-08'
 job: true
@@ -27,13 +29,11 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+
 Sales Associate
 
 The Fragrance Outlet - Assembly Row, Somerville MA
 
+- provided customer service including recommendations, loyalty rewards, and BOGO discounts
 
-
-*   provided customer service including recommendations, loyalty rewards, and BOGO discounts
-
-*   sold over 30 niche colognes and perfumes during the 2024 Holiday Season
-
+- sold over 30 niche colognes and perfumes during the 2024 Holiday Season

@@ -1,5 +1,6 @@
 ---
 type: ProjectFeedLayout
+slug: 'projects'
 title: Projects
 colors: colors-a
 isJobs: false
