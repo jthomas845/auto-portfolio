@@ -1,5 +1,8 @@
 ---
 type: ProjectLayout
+
+slug: "sapient-intern"
+
 title: Publicis Sapient
 date: '2021-06-28'
 job: true
@@ -29,13 +32,13 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 ---
+
 Software Engineering Intern
 
 Publicis Sapient - New York City, NY
 
 Joined an engineering team to develop a chatbot app for a Major Hotel Chain. 
 
-*   Team split into 2 subteams, frontend and backend; I worked on backend
+- Team split into 2 subteams, frontend and backend; I worked on backend
 
-*   Project described in full under [MaryBot](/projects/project-one)
-
+- Project described in full under [MaryBot](/projects/project-one)

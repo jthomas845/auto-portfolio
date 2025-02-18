@@ -1,6 +1,7 @@
 ---
 type: ProjectLayout
 title: Teacher
+slug: 'beverly'
 job: true
 colors: colors-a
 date: '2024-11-04'
@@ -20,4 +21,5 @@ media:
   altText: Project image
 addTitleSuffix: false
 ---
+
 Coordinated with a school district representative to organize presentations for students. Collaborated with staff at two district buildings to plan daily schedules. Delivered lessons to 40-75 students throughout the day, and reexplained key concepts to students needing additional support.

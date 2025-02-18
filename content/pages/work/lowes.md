@@ -1,19 +1,22 @@
 ---
 type: ProjectLayout
-title: The Fragrance Outlet
-date: '2024-11-08'
+
+slug: "lowes"
+
+title: Lowe's
 job: true
+date: '2020-05-10'
 client: ''
 description: Sales
 featuredImage:
   type: ImageBlock
-  url: /images/TFO.jpg
-  altText: altText of the image
-  caption: Caption of the image
+  url: /images/Lowed nis.webp
+  altText: Project thumbnail image
+  caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/TFO.jpg
+  url: /images/Lowed nis.webp
   altText: Project image
   caption: Caption of the image
   elementId: ''
@@ -27,13 +30,13 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+
 Sales Associate
 
-The Fragrance Outlet - Assembly Row, Somerville MA
+Lowe's Home Improvement - Nanuet, NY
 
+- Provided customer service including recommendations and store directions
 
+- Restocked in-store returns back to the shelves
 
-*   provided customer service including recommendations, loyalty rewards, and BOGO discounts
-
-*   sold over 30 niche colognes and perfumes during the 2024 Holiday Season
-
+- Collected products for online orders
