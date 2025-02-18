@@ -1,4 +1,4 @@
-import { defineStackbitConfig } from '@stackbit/types';
+import { defineStackbitConfig, SiteMapEntry } from '@stackbit/types';
 import { GitContentSource } from '@stackbit/cms-git';
 import { allModels } from './.stackbit/models';
 
@@ -9,17 +9,8 @@ const config = defineStackbitConfig({
     contentSources: [
         new GitContentSource({
             rootPath: __dirname,
-            contentDirs: ['content'],
-            models: [
-            {
-              name: "Page",
-              // Define the model as a page model
-              type: "page",
-              urlPath: "/{slug}",
-              filePath: "content/pages/{slug}.json",
-              fields: [{ name: "title", type: "string", required: true }]
-            }
-          ],
+            contentDirs: ["content"],
+            models: allModels,
             assetsConfig: {
                 referenceType: 'static',
                 staticDir: 'public',
@@ -28,7 +19,6 @@ const config = defineStackbitConfig({
             }
         })
     ],
-   
     presetSource: {
         type: 'files',
         presetDirs: ['./.stackbit/presets']
