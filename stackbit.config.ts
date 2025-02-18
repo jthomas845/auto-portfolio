@@ -19,6 +19,16 @@ const config = defineStackbitConfig({
             }
         })
     ],
+    siteMap: ({ documents, models }) => {
+      const pageModels = Object.values(models).filter(model => model.type === 'page');
+      return documents
+        .filter(doc => pageModels.some(model => model.name === doc.type))
+        .map(doc => ({
+          urlPath: doc.fields.slug ? `/${doc.fields.slug}` : '/',
+          document: doc,
+          isHomePage: doc.fields.slug === 'home' || doc.fields.slug === ''
+        }));
+    },
     presetSource: {
         type: 'files',
         presetDirs: ['./.stackbit/presets']
