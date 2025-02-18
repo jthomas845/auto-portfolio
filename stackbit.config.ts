@@ -10,7 +10,16 @@ const config = defineStackbitConfig({
         new GitContentSource({
             rootPath: __dirname,
             contentDirs: ['content'],
-            models: allModels,
+            models: [
+            {
+              name: "Page",
+              // Define the model as a page model
+              type: "page",
+              urlPath: "/{slug}",
+              filePath: "content/pages/{slug}.json",
+              fields: [{ name: "title", type: "string", required: true }]
+            }
+          ],
             assetsConfig: {
                 referenceType: 'static',
                 staticDir: 'public',
