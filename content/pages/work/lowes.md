@@ -1,8 +1,6 @@
 ---
-type: ProjectLayout
-
-slug: "lowes"
-
+type: WorkLayout
+slug: 'lowes'
 title: Lowe's
 job: true
 date: '2020-05-10'

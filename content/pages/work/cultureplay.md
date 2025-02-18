@@ -1,8 +1,6 @@
 ---
 type: WorkLayout
-
-slug: "cultureplay"
-
+slug: 'cultureplay'
 title: CulturePlay Computer Science Academy
 date: '2019-07-03'
 job: true

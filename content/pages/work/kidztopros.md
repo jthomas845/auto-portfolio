@@ -1,8 +1,6 @@
 ---
 type: WorkLayout
-
-slug: "kidztopros"
-
+slug: 'kidztopros'
 title: KidzToPros
 job: true
 date: '2022-06-28'

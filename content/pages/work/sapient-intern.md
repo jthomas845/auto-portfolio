@@ -1,8 +1,6 @@
 ---
-type: ProjectLayout
-
-slug: "sapient-intern"
-
+type: WorkLayout
+slug: 'sapient-intern'
 title: Publicis Sapient
 date: '2021-06-28'
 job: true

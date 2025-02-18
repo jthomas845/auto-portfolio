@@ -1,10 +1,6 @@
 ---
 type: WorkLayout
-
-
-
-slug: "sapient-long"
-
+slug: 'sapient-long'
 title: Publicis Sapient
 date: '2022-08-03'
 job: true
