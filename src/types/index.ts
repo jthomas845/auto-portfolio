@@ -1,4 +1,4 @@
-import { Config, ContentObject, PostFeedLayout, PostLayout } from './generated';
+import { Config, ContentObject, PostFeedLayout, PostLayout, WorkLayout } from './generated';
 
 export * from './base';
 export * from './generated';
