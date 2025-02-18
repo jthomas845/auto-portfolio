@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: About
-slug: 'info'
+slug: info
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -42,7 +42,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-0
+          - mt-5
           - mb-0
           - ml-0
           - mr-0
