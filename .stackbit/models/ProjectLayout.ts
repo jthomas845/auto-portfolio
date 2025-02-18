@@ -25,6 +25,13 @@ export const ProjectLayoutModel: Model = {
             required: true
         },
         {
+            type: 'string',
+            name: 'slug',
+            label: 'Slug',
+            default: 'This is the slug',
+            required: true
+        },
+        {
             type: 'date',
             name: 'date',
             label: 'Date',

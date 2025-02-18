@@ -29,6 +29,7 @@ import { PostLayoutModel } from './PostLayout';
 import { ProjectFeedLayoutModel } from './ProjectFeedLayout';
 import { ProjectFeedSectionModel } from './ProjectFeedSection';
 import { ProjectLayoutModel } from './ProjectLayout';
+import { WorkLayoutModel } from './WorkLayout';
 import { QuoteSectionModel } from './QuoteSection';
 import { RecentPostsSectionModel } from './RecentPostsSection';
 import { RecentProjectsSectionModel } from './RecentProjectsSection';
@@ -77,6 +78,7 @@ export const allModels = [
     ProjectFeedLayoutModel,
     ProjectFeedSectionModel,
     ProjectLayoutModel,
+    WorkLayoutModel,
     QuoteSectionModel,
     RecentPostsSectionModel,
     RecentProjectsSectionModel,

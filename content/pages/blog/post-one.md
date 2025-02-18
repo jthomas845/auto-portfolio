@@ -1,6 +1,7 @@
 ---
 type: PostLayout
 title: "How I started a startup \U0001F680"
+slug: 'post-one'
 colors: colors-a
 date: '2025-02-05'
 author: content/data/team/doris-soto.json
@@ -117,6 +118,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+
 I did not found a startup; this post is a place holder.
 
 on the plus side, you're reading my blog! thanks.

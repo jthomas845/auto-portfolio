@@ -9,7 +9,7 @@ const config = defineStackbitConfig({
     contentSources: [
         new GitContentSource({
             rootPath: __dirname,
-            contentDirs: ["content"],
+            contentDirs: ['content'],
             models: allModels,
             assetsConfig: {
                 referenceType: 'static',
@@ -19,6 +19,7 @@ const config = defineStackbitConfig({
             }
         })
     ],
+
     presetSource: {
         type: 'files',
         presetDirs: ['./.stackbit/presets']

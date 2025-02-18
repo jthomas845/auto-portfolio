@@ -1,6 +1,7 @@
 ---
 type: PostFeedLayout
 title: Blog
+slug: 'blog'
 colors: colors-a
 backgroundImage:
   type: BackgroundImage

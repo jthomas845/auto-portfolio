@@ -2,6 +2,7 @@
 type: PageLayout
 title: Home
 colors: colors-a
+slug: 'index'
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
