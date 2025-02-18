@@ -20,10 +20,9 @@ const config = defineStackbitConfig({
         })
     ],
     modelExtensions: [
-    { name: "page", type: "page", urlPath: "/{slug}" },
-    { name: "post", type: "page", urlPath: "/blog/{slug}" }
-  ]
-});
+        { name: "page", type: "page", urlPath: "/{slug}" },
+        { name: "post", type: "page", urlPath: "/blog/{slug}" }
+    ],
     presetSource: {
         type: 'files',
         presetDirs: ['./.stackbit/presets']
