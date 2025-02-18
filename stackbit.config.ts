@@ -16,7 +16,7 @@ const config = defineStackbitConfig({
               // Define the model as a page model
               type: "page",
               urlPath: "/{slug}",
-              filePath: "content/pages/{slug}.json",
+              filePath: "content/pages/{slug}.md",
               fields: [{ name: "title", type: "string", required: true }]
             }
           ],
