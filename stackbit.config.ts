@@ -19,7 +19,6 @@ const config = defineStackbitConfig({
             }
         })
     ],
-   
     presetSource: {
         type: 'files',
         presetDirs: ['./.stackbit/presets']
