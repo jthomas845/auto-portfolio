@@ -15,7 +15,7 @@ export function getStaticPaths() {
 
 export function getStaticProps({ params }) {
     const allData = allContent();
-    const urlPath = '/' + (params.slug || []).join('/');
+    const urlPath = '/' + (params.slug.join('/') || []);
     console.log('params: ${params}')
     const props = resolveStaticProps(urlPath, allData);
     return { props };
