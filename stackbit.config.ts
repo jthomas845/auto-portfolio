@@ -61,7 +61,7 @@ const config = defineStackbitConfig({
         };
       })
       .filter(Boolean) as SiteMapEntry[];
-  }
+  },
     presetSource: {
         type: 'files',
         presetDirs: ['./.stackbit/presets']
