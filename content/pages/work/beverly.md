@@ -1,5 +1,5 @@
 ---
-type: ProjectLayout
+type: WorkLayout
 title: Teacher
 slug: 'beverly'
 job: true
