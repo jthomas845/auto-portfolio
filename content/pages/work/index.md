@@ -5,7 +5,7 @@ slug: 'work'
 isJobs: true
 colors: colors-a
 items:
-  - content/pages/work/sapient.md
+  - content/pages/work/sapient-long.md
   - content/pages/work/beverly.md
   - content/pages/work/tfo.md
   - content/pages/work/lowes.md
