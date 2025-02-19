@@ -105,7 +105,7 @@ function getAllProjectsSorted(objects: ContentObject[]) {
 }
 
 function getAllJobsSorted(objects: ContentObject[]) {
-    const all = objects.filter((object) => object.__metadata?.modelName === 'ProjectLayout' && (object as ProjectLayout).job == true) as ProjectLayout[];
+    const all = objects.filter((object) => object.__metadata?.modelName === 'WorkLayout' && (object as ProjectLayout).job == true) as ProjectLayout[];
     const sorted = all.sort((projectA, projectB) => new Date(projectB.date).getTime() - new Date(projectA.date).getTime());
     return sorted;
 }
