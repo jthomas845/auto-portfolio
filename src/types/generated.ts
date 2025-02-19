@@ -1,10 +1,10 @@
 import { BaseContentObject } from './base';
 
 export type DataModelType = Config | Person | ThemeStyle;
-export type PageModelType = PageLayout | PostFeedLayout | PostLayout | ProjectFeedLayout | ProjectLayout;
+export type PageModelType = PageLayout | PostFeedLayout | PostLayout | ProjectFeedLayout | ProjectLayout | WorkLayout;
 
 export const DATA_MODEL_NAMES = ['Config', 'Person', 'ThemeStyle'];
-export const PAGE_MODEL_NAMES = ['PageLayout', 'PostFeedLayout', 'PostLayout', 'ProjectFeedLayout', 'ProjectLayout'];
+export const PAGE_MODEL_NAMES = ['PageLayout', 'PostFeedLayout', 'PostLayout', 'ProjectFeedLayout', 'ProjectLayout', 'WorkLayout'];
 
 export type SectionModels =
     | ContactSection
@@ -54,6 +54,7 @@ export type ContentObject =
     | ProjectFeedLayout
     | ProjectFeedSection
     | ProjectLayout
+    | WorkLayout
     | QuoteSection
     | RecentPostsSection
     | RecentProjectsSection
@@ -102,6 +103,7 @@ export type ContentObjectType =
     | 'ProjectFeedLayout'
     | 'ProjectFeedSection'
     | 'ProjectLayout'
+    | 'WorkLayout'
     | 'QuoteSection'
     | 'RecentPostsSection'
     | 'RecentProjectsSection'
@@ -553,7 +555,26 @@ export type ProjectLayout = BaseContentObject & {
     backgroundImage?: BackgroundImage;
     markdownContent: string;
 };
-
+export type WorkLayout = BaseContentObject & {
+    type: 'WorkLayout';
+    title: string;
+    date: string;
+    endDate?: string;
+    client?: string;
+    description?: string;
+    featuredImage?: ImageBlock;
+    media?: ImageBlock | VideoBlock;
+    bottomSections?: SectionModels[];
+    job?: boolean;
+    metaTitle?: string;
+    metaDescription?: string;
+    addTitleSuffix?: boolean;
+    socialImage?: string;
+    metaTags?: MetaTag[];
+    colors?: 'colors-a' | 'colors-b' | 'colors-c' | 'colors-d' | 'colors-e';
+    backgroundImage?: BackgroundImage;
+    markdownContent: string;
+};
 export type QuoteSection = BaseContentObject & {
     type: 'QuoteSection';
     quote: string;

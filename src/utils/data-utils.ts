@@ -1,6 +1,7 @@
 export type VisitorFunction = (value: any) => any;
 
 export function deepMapObject(value: any, visitorFn: VisitorFunction) {
+    console.log(`value: ${value}\t\tvisitorFN: ${visitorFn}`);
     if (Array.isArray(value)) {
         value = value.map((e) => {
             return deepMapObject(e, visitorFn);

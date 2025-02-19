@@ -5,9 +5,10 @@ slug: 'work'
 isJobs: true
 colors: colors-a
 items:
+  - content/pages/work/sapient.md
   - content/pages/work/beverly.md
-  - content/pages/projects/tfo.md
-  - content/pages/projects/lowes.md
+  - content/pages/work/tfo.md
+  - content/pages/work/lowes.md
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
