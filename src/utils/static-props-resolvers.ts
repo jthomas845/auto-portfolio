@@ -15,7 +15,9 @@ import { deepMapObject } from './data-utils';
 import { ConfigModel } from '.stackbit/models/Config';
 
 export function resolveStaticProps(urlPath: string, allData: ContentObject[]): PageComponentProps {
+    console.log('Resolving static props for urlPath:', urlPath);
     const originalPage = allData.find((obj) => obj.__metadata.urlPath === urlPath);
+    console.log('OG Page: ', originalPage);
     const globalProps: GlobalProps = {
         site: allData.find((obj) => obj.__metadata.modelName === ConfigModel.name) as Config
     };
@@ -29,7 +31,9 @@ export function resolveStaticProps(urlPath: string, allData: ContentObject[]): P
             return value;
         }
     }
-
+    console.log('Ready to enrich Page... ');
+    console.log('enrichContent =  ', enrichContent);
+    console.log('originalPage =  ', originalPage.type);
     const enrichedPage = deepMapObject(originalPage, enrichContent) as ContentObject;
     return {
         ...enrichedPage,
@@ -68,12 +72,10 @@ const PropsResolvers: Partial<Record<ContentObjectType, ResolverFunction>> = {
     },
     ProjectFeedLayout: (props, allData) => {
         //console.log("props: ", props)
-        var allProjects = []
-        if (props.hasOwnProperty('isJobs') && props["isJobs"]){
+        var allProjects = [];
+        if (props.hasOwnProperty('isJobs') && props['isJobs']) {
             allProjects = getAllJobsSorted(allData);
-        }
-        else
-        {
+        } else {
             allProjects = getAllProjectsSorted(allData);
         }
         return {
@@ -101,7 +103,6 @@ function getAllProjectsSorted(objects: ContentObject[]) {
     const sorted = all.sort((projectA, projectB) => new Date(projectB.date).getTime() - new Date(projectA.date).getTime());
     return sorted;
 }
-
 
 function getAllJobsSorted(objects: ContentObject[]) {
     const all = objects.filter((object) => object.__metadata?.modelName === 'ProjectLayout' && (object as ProjectLayout).job == true) as ProjectLayout[];

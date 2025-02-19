@@ -2,7 +2,7 @@
 type: PageLayout
 title: Home
 colors: colors-a
-slug: 'index'
+slug: ''
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
@@ -94,11 +94,11 @@ sections:
         url: /work
         altText: See all work
     projects:
-      - content/pages/projects/sapient-long.md
-      - content/pages/projects/sapient-intern.md
-      - content/pages/projects/kidztopros.md
-      - content/pages/projects/lowes.md
-      - content/pages/projects/cultureplay.md
+      - content/pages/work/sapient-long.md
+      - content/pages/work/sapient-intern.md
+      - content/pages/work/kidztopros.md
+      - content/pages/work/lowes.md
+      - content/pages/work/cultureplay.md
     colors: colors-f
     variant: variant-d
     elementId: ''
@@ -249,7 +249,7 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-seven.md
+      - content/pages/blog/post-one.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

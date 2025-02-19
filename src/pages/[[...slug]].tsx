@@ -15,9 +15,14 @@ export function getStaticPaths() {
 
 export function getStaticProps({ params }) {
     const allData = allContent();
-    const urlPath = '/' + (params.slug.join('/') || []);
-    console.log('params: ${params}')
+    const slug = params?.slug || [];  // ensure slug is always an array
+    const urlPath = '/' + slug.join('/');  // join if it's an array, falls back to '/' for homepage
+    //const urlPath = '/' + (params.slug || []).join('/');
+    console.log(`params: ${JSON.stringify(params)}`)
+    console.log("if youre reaidng this its NOT resolved yet")
     const props = resolveStaticProps(urlPath, allData);
+    console.log("if youre reaidng this IT HAS resolved well")
+    //console.log(`resolved props: ${JSON.stringify(props)}`)
     return { props };
 }
 
