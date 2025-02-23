@@ -118,7 +118,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-
-I did not found a startup; this post is a place holder.
-
-on the plus side, you're reading my blog! thanks.
+I used Netlify and Next.js !
