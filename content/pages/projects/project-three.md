@@ -30,7 +30,7 @@ bottomSections:
         caption: A  false positive
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/YOLO IMG IMG_4405.JPG
         altText: Image two
         caption: Image two caption
         elementId: ''
