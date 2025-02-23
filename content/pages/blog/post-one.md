@@ -5,7 +5,9 @@ slug: post-one
 colors: colors-a
 date: '2025-02-05'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  I wanted a portfolio webpage to share my experiences, but how to build and
+  deploy it?
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
