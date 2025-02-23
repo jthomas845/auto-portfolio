@@ -3,7 +3,7 @@ type: ProjectLayout
 title: SailBot
 slug: project-three
 colors: colors-a
-date: '2022-09-28'
+date: '2022-09-01'
 client: WPI
 description: >-
   The goal of this project is to improve upon prior iterations of SailBot, an
