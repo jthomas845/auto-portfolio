@@ -35,7 +35,7 @@ bottomSections:
         caption: A  false positive (red Coca Cola can)
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/YOLO IMG (final system) IMG_4467.JPG
         altText: Image three
         caption: Image three caption
         elementId: ''
