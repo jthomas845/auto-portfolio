@@ -32,7 +32,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/a false positive.png
         altText: Image one
-        caption: A  false positive
+        caption: A  false positive (red Coca Cola can)
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-3.jpg
