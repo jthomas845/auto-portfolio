@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Figma-To-Code Pipeline
-slug: 'project-two'
+slug: project-two
 colors: colors-a
 date: '2024-04-14'
 client: Publicis Sapient
@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/figma.avif
   altText: Project image
 addTitleSuffix: false
 ---
