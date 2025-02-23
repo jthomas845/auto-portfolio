@@ -40,7 +40,7 @@ bottomSections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/sailbo0t good.jpg
         altText: Image four
         caption: Image four caption
         elementId: ''
