@@ -173,7 +173,7 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find me here:'
-    title: findmehere
+    title: ''
   - type: DividerSection
     styles:
       self:
