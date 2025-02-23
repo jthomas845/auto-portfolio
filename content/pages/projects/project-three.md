@@ -25,14 +25,14 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/a false positive.png
-        altText: Image one
-        caption: A  false positive
-        elementId: ''
-      - type: ImageBlock
         url: /images/YOLO IMG IMG_4405.JPG
         altText: Image two
         caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/a false positive.png
+        altText: Image one
+        caption: A  false positive
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-3.jpg
