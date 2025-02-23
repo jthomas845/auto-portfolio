@@ -27,7 +27,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/YOLO IMG IMG_4405.JPG
         altText: Image two
-        caption: Image two caption
+        caption: Test Results from early version of the Computer Vision system
         elementId: ''
       - type: ImageBlock
         url: /images/a false positive.png
