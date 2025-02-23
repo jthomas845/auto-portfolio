@@ -17,7 +17,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/sailbo0t good.jpg
+  url: /images/sailbo0t cropped.png
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
