@@ -30,7 +30,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-endDate: '0002-05-10'
+endDate: '2022-05-10'
 ---
 
 Programmed the ABB IRB1600, a 6-DOF industrial robot, to complete 3D challenges. Learned the RAPID programming language to script out linear, angular, and complex movements in the joint space
