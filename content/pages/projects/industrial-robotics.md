@@ -4,7 +4,7 @@ title: Industrial Robotics
 slug: industrial-robotics
 date: '2022-03-24'
 job: false
-client: ''
+client: WPI
 description: >-
   Used the ABB IRB1600, a 6-DOF industrial robot, to complete 3D puzzles and
   challenges. Learned the RAPID programming language to script out linear,
