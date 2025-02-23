@@ -269,15 +269,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |+
-      <jarius24thomas@gmail.com>
-
-      LinkedIN: <https://www.linkedin.com/in/jarius-thomas/>
-
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -382,6 +373,15 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: TextSection
+    variant: variant-a
+    subtitle: 'Contact:'
+    colors: colors-f
+    text: |+
+      <jarius24thomas@gmail.com>
+
+      LinkedIN: <https://www.linkedin.com/in/jarius-thomas/>
+
   - type: DividerSection
     styles:
       self:
