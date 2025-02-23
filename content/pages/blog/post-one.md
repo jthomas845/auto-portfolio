@@ -122,9 +122,7 @@ backgroundImage:
 ---
 I've long wanted to start a webpage to share my portfolio and experiences, but how to build and deploy it?
 
-
-
-I did some research (was initially considering AWS Free Tier for deployment, for example), and determined that Netlify would let me
+I did some research (was initially considering AWS Free Tier for deployment, for example), and along the way I found a Reddit thread where someone recommended Netlify for hosting content and deploying their own website. There were HEAVY upvotes on that comment. I had never heard of the service, so I gave it a deeper dive. After making a test account and sifting their products, I determined that Netlify would let me
 
 *   launch quickly
 
@@ -134,7 +132,4 @@ I did some research (was initially considering AWS Free Tier for deployment, for
 
 and with this, the decision was easy! I set up Netlify, filled the CMS with my work and projects, customized the content (and added some new components on top of the template), and cloned the repo to my local machine for easy future updates.
 
-
-
 Now here we are!
-
