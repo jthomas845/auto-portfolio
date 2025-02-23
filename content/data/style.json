@@ -21,7 +21,7 @@
     "h2": {
         "size": "5xl",
         "weight": "normal",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "uppercase",
         "letterSpacing": "normal"
     },
