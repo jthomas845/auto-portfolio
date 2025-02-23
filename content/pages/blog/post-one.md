@@ -6,8 +6,8 @@ colors: colors-a
 date: '2025-02-05'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  I wanted a portfolio webpage to share my experiences, but how to build and
-  deploy it?
+  I've wanted to start a webpage to share my portfolio and experiences, but how
+  to build and deploy it?
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
