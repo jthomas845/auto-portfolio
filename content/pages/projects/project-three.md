@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: SailBot
-slug: 'project-three'
+slug: project-three
 colors: colors-a
 date: '2022-06-28'
 client: WPI
@@ -17,7 +17,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/ABB.jpg
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
