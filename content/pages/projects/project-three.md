@@ -37,7 +37,9 @@ bottomSections:
       - type: ImageBlock
         url: /images/YOLO IMG (final system) IMG_4467.JPG
         altText: Image three
-        caption: Test Results
+        caption: >-
+          Test Results from the final version of the Computer Vision system
+          (works with video feed, triangulates distance of buoy)
         elementId: ''
       - type: ImageBlock
         url: /images/sailbo0t good.jpg
