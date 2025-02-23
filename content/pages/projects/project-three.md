@@ -37,7 +37,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/YOLO IMG (final system) IMG_4467.JPG
         altText: Image three
-        caption: Image three caption
+        caption: Test Results
         elementId: ''
       - type: ImageBlock
         url: /images/sailbo0t good.jpg
