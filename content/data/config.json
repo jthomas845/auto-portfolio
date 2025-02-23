@@ -20,6 +20,16 @@
             },
             {
                 "type": "Link",
+                "label": "Work",
+                "altText": "",
+                "url": "/work",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
             }

@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Figma-To-Code Pipeline
-slug: 'project-two'
+slug: project-two
 colors: colors-a
 date: '2024-04-14'
 client: Publicis Sapient
@@ -15,9 +15,10 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/figma.avif
   altText: Project image
 addTitleSuffix: false
+endDate: '2024-07-10'
 ---
 
 Designed an AI-powered pipeline to generate usable code from Figma designs. This pipeline utilized 3rd-party Gen. AI from builder.io, and Python scripts to clean the generated code.
