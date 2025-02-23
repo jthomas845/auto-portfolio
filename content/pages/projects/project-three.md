@@ -77,6 +77,8 @@ The system improvements were influenced by the International Robotics Sailing Re
 formidable competitor in the SailBot regatta hosted in June of 2022.
 
 I worked on this in a team of eight engineers. Our goal was to improve these systems in order to complete the following IRSR events:
+
+
 • Remote-controlled fleet race
 • Autonomous endurance/long distance event
 • Collision avoidance (computer vision, autonomous)
