@@ -151,11 +151,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions: []
-        styles:
-          self:
-            textAlign: left
     columns: 3
     spacingX: 120
     spacingY: 0
