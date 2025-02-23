@@ -27,7 +27,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-endDate: '0002-09-01'
+endDate: '2020-09-01'
 ---
 
 Sales Associate
