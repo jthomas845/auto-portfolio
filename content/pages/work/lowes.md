@@ -1,6 +1,6 @@
 ---
 type: WorkLayout
-slug: 'lowes'
+slug: lowes
 title: Lowe's
 job: true
 date: '2020-05-10'
@@ -27,6 +27,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+endDate: '0002-09-01'
 ---
 
 Sales Associate
