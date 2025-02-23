@@ -119,6 +119,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+metaTitle: blog-howistartedwebsite
 ---
 I've long wanted to start a webpage to share my portfolio and experiences, but how to build and deploy it?
 
