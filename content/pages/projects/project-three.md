@@ -78,12 +78,21 @@ formidable competitor in the SailBot regatta hosted in June of 2022.
 
 I worked on this in a team of eight engineers. Our goal was to improve these systems in order to complete the following IRSR events:
 
-
 • Remote-controlled fleet race
+
+
 • Autonomous endurance/long distance event
+
+
 • Collision avoidance (computer vision, autonomous)
+
+
 • Precision navigation (GPS positioning, computer vision)
+
+
 • Station keeping
+
+
 • Object search and location (computer vission, autonomous)
 
 At the end of this project, we had successfully built and installed a new rigid wingsail, restored electrical systems in the hull (including bluetooth comms and a magnetic ON/OFF switch), re-geared and tested the ballast assembly, written and tested our autonomous sailing algorithms, and trained a YOLOv4 computer vision system for finding buoys and other boats.
