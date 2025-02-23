@@ -42,9 +42,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/sailbo0t good.jpg
         altText: Image four
-        caption: >-
-          Full Sailboat. (worked with Stereo Camera, Wind Sensor, Ballast and
-          Wingsail Steering)
+        caption: Full Sailboat
         elementId: ''
     colors: colors-c
     spacing: 16
