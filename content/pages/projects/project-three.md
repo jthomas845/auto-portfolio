@@ -1,9 +1,9 @@
 ---
 type: ProjectLayout
 title: SailBot
-slug: 'project-three'
+slug: project-three
 colors: colors-a
-date: '2022-06-28'
+date: '2021-09-01'
 client: WPI
 description: >-
   The goal of this project is to improve upon prior iterations of SailBot, an
@@ -17,38 +17,42 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/sailbo0t cropped.png
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
+      - type: ImageBlock
+        url: /images/YOLO IMG IMG_4405.JPG
+        altText: Image two
+        caption: >-
+          Test Results from early version of the Computer Vision system (only
+          works with still images)
+        elementId: ''
       - type: ImageBlock
         url: /images/a false positive.png
         altText: Image one
-        caption: A  false positive
+        caption: A  false positive (red Coca Cola can)
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/YOLO IMG (final system) IMG_4467.JPG
         altText: Image three
-        caption: Image three caption
+        caption: >-
+          Test Results from the final version of the Computer Vision system
+          (works with video feed, triangulates distance of buoy)
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/sailbo0t good.jpg
         altText: Image four
-        caption: Image four caption
+        caption: Full Sailboat
         elementId: ''
-    colors: colors-c
+    colors: colors-d
     spacing: 16
     columns: 2
     aspectRatio: '1:1'
-    showCaption: false
+    showCaption: true
     enableHover: false
     elementId: ''
     styles:
@@ -65,6 +69,7 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
+endDate: '2022-06-28'
 ---
 
 The goal of this project was to improve upon the 5 prior iterations of SailBot, the autonomous robotic sailboat maintained by WPI. This was accomplished by improving the mechanical, electrical, and software systems already in place, as well as adding new systems. Our overall objective for this iteration is to increase the rigidity and reliability of the vehicle.
