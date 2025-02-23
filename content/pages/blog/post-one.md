@@ -3,7 +3,7 @@ type: PostLayout
 title: "How I started a website\U0001F680"
 slug: post-one
 colors: colors-a
-date: '2025-02-05'
+date: '2025-02-07'
 author: content/data/team/doris-soto.json
 excerpt: >-
   I've wanted to start a webpage to share my portfolio and experiences, but how
