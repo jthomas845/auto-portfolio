@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: About
-slug: 'info'
+slug: info
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -42,7 +42,7 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-0
+          - mt-10
           - mb-0
           - ml-0
           - mr-0
@@ -139,7 +139,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/jthomas845'
         styles:
           self:
             textAlign: left
@@ -147,15 +147,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            url: 'https://www.linkedin.com/in/jarius-thomas'
         styles:
           self:
             textAlign: left
