@@ -71,13 +71,12 @@ bottomSections:
         textAlign: center
 endDate: '2022-06-28'
 ---
-
 The goal of this project was to improve upon the 5 prior iterations of SailBot, the autonomous robotic sailboat maintained by WPI. This was accomplished by improving the mechanical, electrical, and software systems already in place, as well as adding new systems. Our overall objective for this iteration is to increase the rigidity and reliability of the vehicle.
 
 The system improvements were influenced by the International Robotics Sailing Regatta (IRSR) rules, to ensure that the vessel would be a
 formidable competitor in the SailBot regatta hosted in June of 2022.
 
-I worked on this in a team of eight engineers. Our goal was to improve these systems in order to complete the following IRSR events
+I worked on this in a team of eight engineers. Our goal was to improve these systems in order to complete the following IRSR events:
 • Remote-controlled fleet race
 • Autonomous endurance/long distance event
 • Collision avoidance (computer vision, autonomous)
