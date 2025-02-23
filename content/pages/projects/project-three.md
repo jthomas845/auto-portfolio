@@ -70,6 +70,7 @@ bottomSections:
       subtitle:
         textAlign: center
 endDate: '2022-06-28'
+metaTitle: Sailbot
 ---
 The goal of this project was to improve upon the 5 prior iterations of SailBot, the autonomous robotic sailboat maintained by WPI. This was accomplished by improving the mechanical, electrical, and software systems already in place, as well as adding new systems. Our overall objective for this iteration is to increase the rigidity and reliability of the vehicle.
 
