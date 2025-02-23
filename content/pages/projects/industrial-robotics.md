@@ -1,12 +1,12 @@
 ---
 type: ProjectLayout
 title: Industrial Robotics
-slug: 'industrial-robotics'
+slug: industrial-robotics
 date: '2022-03-24'
 job: false
-client: ''
+client: WPI
 description: >-
-  Used the ABB IRB1600, a 6-DOF industrial robot, to complete 3D puzzles and
+  Utilized the ABB IRB1600, a 6-DOF industrial robot, to complete 3D puzzles and
   challenges. Learned the RAPID programming language to script out linear,
   angular, and complex movements in the joint space
 featuredImage:
@@ -30,6 +30,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+endDate: '2022-05-10'
 ---
 
 Programmed the ABB IRB1600, a 6-DOF industrial robot, to complete 3D challenges. Learned the RAPID programming language to script out linear, angular, and complex movements in the joint space
