@@ -120,4 +120,21 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-I used Netlify and Next.js !
+I've long wanted to start a webpage to share my portfolio and experiences, but how to build and deploy it?
+
+
+
+I did some research (was initially considering AWS Free Tier for deployment, for example), and determined that Netlify would let me
+
+*   launch quickly
+
+*   manage content (jobs, pages, images) within a CMS with minimal learning curve
+
+*   sync all content into GitHub, letting me showcase JavaScript/TS/React/Next.js experience outside of a corporate client
+
+and with this, the decision was easy! I set up Netlify, filled the CMS with my work and projects, customized the content (and added some new components on top of the template), and cloned the repo to my local machine for easy future updates.
+
+
+
+Now here we are!
+
