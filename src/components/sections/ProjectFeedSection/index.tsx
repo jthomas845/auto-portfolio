@@ -105,9 +105,16 @@ function ProjectsVariantABC(props) {
                             return null;
                         })()}
                         {showDate && project.date && (
-                                <ProjectDate date={String(project.date)} style="display: inline-block;">
-                                {project.endDate && <span> <p style="display: inline-block;"> - <ProjectDate date={String(project.endDate)} style="display: inline-block;"/> </p></span>
-                                    }</ProjectDate>
+                            <div style={{ display: 'inline-block' }}>
+                                <ProjectDate date={String(project.date)} />
+                                {project.endDate && (
+                                <span style={{ display: 'inline-block' }}>
+                                  {' - '}
+                                  <ProjectDate date={String(project.endDate)} />
+                                </span>
+                            </div>
+                            )}
+                            
                         )}
                         <h3>{project.title}</h3>
                         {showDescription && project.description && <p className="text-lg mt-5">{project.description}</p>}
