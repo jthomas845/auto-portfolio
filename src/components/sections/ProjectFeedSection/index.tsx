@@ -79,6 +79,11 @@ function ProjectsVariantABC(props) {
     if (projects.length === 0) {
         return null;
     }
+    projects.map((project, index) => {
+        console.log("Project Object:", project);
+        console.log("Date Type:", typeof project.date, "/tDate IN:", project.date);
+        project.endDate && console.log("Date2 Type:", typeof project.endDate, "/tDate OUT:", project.endDate);
+    });
     return (
         <div
             className={classNames('grid', 'gap-y-12', {
