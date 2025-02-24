@@ -107,6 +107,7 @@ function ProjectsVariantABC(props) {
                                     <p> - </p>
                                     <ProjectDate date={project.endDate}> </ProjectDate>
                                     </div>
+                                }
                             </div>
                         )}
                         <h3>{project.title}</h3>
