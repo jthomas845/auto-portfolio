@@ -101,8 +101,7 @@ function ProjectsVariantABC(props) {
                             </div>
                         )}
                         {
-                            //console.log("project  #", index); 
-                            //console.log(project);
+                            console.log(project, "," , project.endDate)
                         }
                         {showDate && project.date && (
                                 <ProjectDate date={String(project.date)} style="display: inline-block;">
