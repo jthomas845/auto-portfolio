@@ -116,7 +116,7 @@ function ProjectsVariantABC(props) {
                                 <span style={{ display: 'inline-block' }}>
                                   {' - '}
                                   <ProjectDate date={String(project.endDate)} />
-                                </span>
+                                </span>)
                             </div>
                             )}
                             
