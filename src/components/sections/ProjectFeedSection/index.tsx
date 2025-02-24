@@ -90,10 +90,6 @@ function ProjectsVariantABC(props) {
             })}
         >
             {projects.map((project, index) => (
-            {
-                console.log("project #", index);
-                console.log(project);
-            }
                 <Link key={index} href={project} className="sb-project-feed-item block group">
                     <article className="border-b border-current h-full pb-10 max-w-3xl">
                         {showFeaturedImage && project.featuredImage && (
@@ -104,12 +100,16 @@ function ProjectsVariantABC(props) {
                                 />
                             </div>
                         )}
+                        {
+                            //console.log("project  #", index); 
+                            //console.log(project);
+                        }
                         {showDate && project.date && (
-                            <div className="mb-3">
+                            <div className="mb-3">vz
                                 <ProjectDate date={project.date} />
                                 {project.endDate && <div> 
                                     <p> - </p>
-                                    <ProjectDate date={...project.endDate}> </ProjectDate>
+                                    {project.endDate && <ProjectDate date={String(project.endDate)} />}
                                     </div>
                                 }
                             </div>
