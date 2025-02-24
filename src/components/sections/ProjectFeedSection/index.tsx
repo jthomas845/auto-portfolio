@@ -100,9 +100,18 @@ function ProjectsVariantABC(props) {
                                 />
                             </div>
                         )}
+                        {
+                            //console.log("project  #", index); 
+                            //console.log(project);
+                        }
                         {showDate && project.date && (
-                            <div className="mb-3">
+                            <div className="mb-3">vz
                                 <ProjectDate date={project.date} />
+                                {project.endDate && <div> 
+                                    <p> - </p>
+                                    {project.endDate && <ProjectDate date={String(project.endDate)} />}
+                                    </div>
+                                }
                             </div>
                         )}
                         <h3>{project.title}</h3>
