@@ -113,12 +113,12 @@ function ProjectsVariantABC(props) {
                             <div style={{ display: 'inline-block' }}>
                                 <ProjectDate date={String(project.date)} />
                                 {project.endDate && (
-                                <span style={{ display: 'inline-block' }}>
-                                  {'  - '}
-                                  <ProjectDate date={String(project.endDate)} />
-                                </span>)}
+                                    <span style={{ display: 'inline-block' }}>
+                                        {'  - '}
+                                        <ProjectDate date={String(project.endDate)} />
+                                    </span>)}
                             </div>
-                            )}
+                        )}
                         <h3>{project.title}</h3>
                         {showDescription && project.description && <p className="text-lg mt-5">{project.description}</p>}
                         {showReadMoreLink && (
@@ -163,8 +163,13 @@ function ProjectsVariantD(props) {
                             )}
                             <div className={classNames('md:grow', showFeaturedImage && project.featuredImage ? null : 'md:ml-12')}>
                                 {showDate && project.date && (
-                                    <div className="mb-3">
-                                        <ProjectDate date={project.date} />
+                                    <div className="mb-3" style={{ display: 'inline-block' }}>
+                                        <ProjectDate date={String(project.date)} />
+                                        {project.endDate && (
+                                            <span style={{ display: 'inline-block' }}>
+                                                {'  - '}
+                                                <ProjectDate date={String(project.endDate)} />
+                                            </span>)}
                                     </div>
                                 )}
                                 <h3>{project.title}</h3>
