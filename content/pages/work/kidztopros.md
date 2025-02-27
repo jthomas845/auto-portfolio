@@ -29,7 +29,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-endDate: '0002-08-01'
+endDate: '2022-08-01'
 ---
 
 Instructor
