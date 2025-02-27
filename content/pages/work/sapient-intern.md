@@ -1,6 +1,6 @@
 ---
 type: WorkLayout
-slug: 'sapient-intern'
+slug: sapient-intern
 title: Publicis Sapient
 date: '2021-06-28'
 job: true
@@ -29,6 +29,7 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+endDate: '0002-08-13'
 ---
 
 Software Engineering Intern
