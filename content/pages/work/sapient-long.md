@@ -1,6 +1,6 @@
 ---
 type: WorkLayout
-slug: 'sapient-long'
+slug: sapient-long
 title: Publicis Sapient
 date: '2022-08-03'
 job: true
@@ -54,6 +54,7 @@ bottomSections:
       title:
         fontWeight": 400
         textAlign: left
+endDate: '2024-07-10'
 ---
 
 Delivered impactful consultative projects for a major hotel chain and a beverage conglomerate, creating new front-facing components that drove user engagement and increased sales and sign-ups. 
