@@ -14,11 +14,12 @@ import {
 } from '@/types';
 import { deepMapObject } from './data-utils';
 import { ConfigModel } from '.stackbit/models/Config';
+const log_verbose = false
 
 export function resolveStaticProps(urlPath: string, allData: ContentObject[]): PageComponentProps {
-    console.log('Resolving static props for urlPath:', urlPath);
+    log_verbose && console.log('Resolving static props for urlPath:', urlPath);
     const originalPage = allData.find((obj) => obj.__metadata.urlPath === urlPath);
-    console.log('OG Page: ', originalPage);
+    log_verbose && console.log('OG Page: ', originalPage);
     const globalProps: GlobalProps = {
         site: allData.find((obj) => obj.__metadata.modelName === ConfigModel.name) as Config
     };
@@ -32,9 +33,9 @@ export function resolveStaticProps(urlPath: string, allData: ContentObject[]): P
             return value;
         }
     }
-    console.log('Ready to enrich Page... ');
-    console.log('enrichContent =  ', enrichContent);
-    console.log('originalPage =  ', originalPage.type);
+    log_verbose &&  console.log('Ready to enrich Page... ');
+    log_verbose && console.log('enrichContent =  ', enrichContent);
+    log_verbose && console.log('originalPage =  ', originalPage.type);
     const enrichedPage = deepMapObject(originalPage, enrichContent) as ContentObject;
     return {
         ...enrichedPage,
