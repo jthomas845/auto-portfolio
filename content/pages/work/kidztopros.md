@@ -1,6 +1,6 @@
 ---
 type: WorkLayout
-slug: 'kidztopros'
+slug: kidztopros
 title: KidzToPros
 job: true
 date: '2022-06-28'
@@ -29,6 +29,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+endDate: '0001-08-01'
 ---
 
 Instructor
