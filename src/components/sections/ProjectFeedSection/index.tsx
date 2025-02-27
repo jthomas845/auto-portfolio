@@ -112,11 +112,15 @@ function ProjectsVariantABC(props) {
                         {showDate && project.date && (
                             <div style={{ display: 'inline-block' }}>
                                 <ProjectDate date={String(project.date)} />
-                                {project.endDate && (
+                                {project.endDate && <>
                                     <span style={{ display: 'inline-block' }}>
-                                        {'  - '}
+                                        &nbsp;&nbsp; - &nbsp;&nbsp;
+                                    </span>
+                                    <span style={{ display: 'inline-block' }}>
                                         <ProjectDate date={String(project.endDate)} />
-                                    </span>)}
+                                    </span>
+                                </>
+                                }
                             </div>
                         )}
                         <h3>{project.title}</h3>
@@ -165,11 +169,15 @@ function ProjectsVariantD(props) {
                                 {showDate && project.date && (
                                     <div className="mb-3" style={{ display: 'inline-block' }}>
                                         <ProjectDate date={String(project.date)} />
-                                        {project.endDate && (
+                                        {project.endDate && <>
                                             <span style={{ display: 'inline-block' }}>
-                                                {'  - '}
+                                                &nbsp;&nbsp; - &nbsp;&nbsp;
+                                            </span>
+                                            <span style={{ display: 'inline-block' }}>
                                                 <ProjectDate date={String(project.endDate)} />
-                                            </span>)}
+                                            </span>
+                                        </>
+                                        }
                                     </div>
                                 )}
                                 <h3>{project.title}</h3>
