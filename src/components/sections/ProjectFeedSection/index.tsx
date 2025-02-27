@@ -119,8 +119,6 @@ function ProjectsVariantABC(props) {
                                 </span>)}
                             </div>
                             )}
-                            
-                        )}
                         <h3>{project.title}</h3>
                         {showDescription && project.description && <p className="text-lg mt-5">{project.description}</p>}
                         {showReadMoreLink && (
