@@ -29,7 +29,7 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
-endDate: '0002-08-13'
+endDate: '2021-08-13'
 ---
 
 Software Engineering Intern
