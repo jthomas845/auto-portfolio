@@ -1,11 +1,13 @@
 ---
 type: PostLayout
-title: "How I started a startup \U0001F680"
-slug: 'post-one'
+title: "How I started a website\U0001F680"
+slug: post-one
 colors: colors-a
-date: '2025-02-05'
+date: '2025-02-07'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  I've wanted to start a webpage to share my portfolio and experiences, but how
+  to build and deploy it?
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
@@ -117,8 +119,18 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+metaTitle: blog-howistartedwebsite
 ---
+I've long wanted to start a webpage to share my portfolio and experiences, but how to build and deploy it?
 
-I did not found a startup; this post is a place holder.
+I did some research (was initially considering AWS Free Tier for deployment, for example), and along the way I found a Reddit thread where someone recommended Netlify for hosting content and deploying their own website. There were HEAVY upvotes on that comment. I had never heard of the service, so I gave it a deeper dive. After making a test account and sifting their products, I determined that Netlify would let me
 
-on the plus side, you're reading my blog! thanks.
+*   launch quickly
+
+*   manage content (jobs, pages, images) within a CMS with minimal learning curve
+
+*   sync all content into GitHub, letting me showcase JavaScript/TS/React/Next.js experience outside of a corporate client
+
+and with this, the decision was easy! I set up Netlify, filled the CMS with my work and projects, customized the content (and added some new components on top of the template), and cloned the repo to my local machine for easy future updates.
+
+Now here we are!
