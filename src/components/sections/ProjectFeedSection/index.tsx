@@ -167,7 +167,7 @@ function ProjectsVariantD(props) {
                                         <ProjectDate date={String(project.date)} />
                                         {project.endDate && <>
                                             <span style={{ display: 'inline-block' }}>
-                                                "&nbsp;&nbsp;-&nbsp;&nbsp;"
+                                                &nbsp;&nbsp; - &nbsp;&nbsp;
                                             </span>
                                             <span style={{ display: 'inline-block' }}>
                                                 <ProjectDate date={String(project.endDate)} />
