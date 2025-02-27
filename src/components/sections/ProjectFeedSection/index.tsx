@@ -79,6 +79,11 @@ function ProjectsVariantABC(props) {
     if (projects.length === 0) {
         return null;
     }
+    projects.map((project, index) => {
+        console.log("Project Object:", project);
+        console.log("Date Type:", typeof project.date, "/tDate IN:", project.date);
+        project.endDate && console.log("Date2 Type:", typeof project.endDate, "/tDate OUT:", project.endDate);
+    });
     return (
         <div
             className={classNames('grid', 'gap-y-12', {
@@ -100,20 +105,20 @@ function ProjectsVariantABC(props) {
                                 />
                             </div>
                         )}
-                        {
-                            //console.log("project  #", index); 
-                            //console.log(project);
-                        }
+                        {(() => {
+                            console.log(project, ",", project.endDate);    //logger
+                            return null;
+                        })()}
                         {showDate && project.date && (
-                            <div className="mb-3">vz
-                                <ProjectDate date={project.date} />
-                                {project.endDate && <div> 
-                                    <p> - </p>
-                                    {project.endDate && <ProjectDate date={String(project.endDate)} />}
-                                    </div>
-                                }
+                            <div style={{ display: 'inline-block' }}>
+                                <ProjectDate date={String(project.date)} />
+                                {project.endDate && (
+                                <span style={{ display: 'inline-block' }}>
+                                  {' - '}
+                                  <ProjectDate date={String(project.endDate)} />
+                                </span>)}
                             </div>
-                        )}
+                            )}
                         <h3>{project.title}</h3>
                         {showDescription && project.description && <p className="text-lg mt-5">{project.description}</p>}
                         {showReadMoreLink && (
