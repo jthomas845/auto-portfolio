@@ -1,6 +1,6 @@
 ---
 type: WorkLayout
-slug: 'cultureplay'
+slug: cultureplay
 title: CulturePlay Computer Science Academy
 date: '2019-07-03'
 job: true
@@ -27,6 +27,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+endDate: '2019-08-20'
 ---
 
 Collaborated with other teachers and assistant teachers at CulturePlay’s Computer Science Academy to introduce fifth and sixth graders to game design and programming concepts with a hands-on experience. 
