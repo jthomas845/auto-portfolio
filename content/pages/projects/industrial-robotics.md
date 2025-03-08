@@ -31,8 +31,8 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 endDate: '2022-05-10'
+bottomSections: []
 ---
-
 Programmed the ABB IRB1600, a 6-DOF industrial robot, to complete 3D challenges. Learned the RAPID programming language to script out linear, angular, and complex movements in the joint space
 
 > The ABB IRB 1600-6/1.45 robot is a 6-axis robot arm, it has a payload of 6 kg and a reach of 1450 mm. Manufacturing applications include Additive Manufacturing.
@@ -43,4 +43,8 @@ Programmed the ABB IRB1600, a 6-DOF industrial robot, to complete 3D challenges.
 >
 > .
 >
-> \- https://robodk.com/robot/ABB/IRB-1600-6-1-45
+> \- RoboDK Documentation (<https://robodk.com/robot/ABB/IRB-1600-6-1-4>)
+
+Robot Operation Clip: [LINK](https://drive.google.com/file/d/15fMdB6I5sihG_rRZCLzYouWwo1rTwvfv/preview?autoplay=1)
+
+<iframe src="https://drive.google.com/file/d/15fMdB6I5sihG_rRZCLzYouWwo1rTwvfv/preview" width="640" height="480" allow="autoplay"></iframe>
