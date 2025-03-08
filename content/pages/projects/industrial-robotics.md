@@ -45,5 +45,4 @@ Programmed the ABB IRB1600, a 6-DOF industrial robot, to complete 3D challenges.
 >
 > \- <https://robodk.com/robot/ABB/IRB-1600-6-1-4>
 
-' is this  a [p] tag '
-
+`is this  a [p] tag`
