@@ -49,4 +49,3 @@ Programmed the ABB IRB1600, a 6-DOF industrial robot, to complete 3D challenges.
 src="https\://drive.google.com/file/d/15fMdB6I5sihG\_rRZCLzYouWwo1rTwvfv/preview?autoplay=1" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
 gyroscope; picture-in-picture" allowfullscreen></iframe>
-
