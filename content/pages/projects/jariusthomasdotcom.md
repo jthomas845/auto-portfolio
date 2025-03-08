@@ -8,7 +8,7 @@ description: Built a personal portfolio webpage using Netlify and Next.js
 featuredImage:
   type: ImageBlock
   url: /images/web.jpg
-  altText: Project thumbnail image
+  altText: Website
   caption: ''
   elementId: ''
 media:
