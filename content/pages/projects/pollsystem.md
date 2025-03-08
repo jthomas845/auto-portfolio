@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PollSystem
 slug: PollSystem
 date: '2021-01-06'
-client: Awesome client
+client: WPI
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
