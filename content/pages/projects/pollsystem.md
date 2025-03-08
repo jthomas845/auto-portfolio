@@ -7,7 +7,7 @@ client: WPI
 description: Team of engineers....
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/vote_phone.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
