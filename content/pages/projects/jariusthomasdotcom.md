@@ -27,3 +27,8 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Built a personal portfolio webpage using Netlify and Next.js
+
+
+
+Currently in development! Adding new details, extra projects, photos, videos and blog posts this March.
