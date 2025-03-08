@@ -7,7 +7,7 @@ client: Personal Project
 description: Built a personal portfolio webpage using Netlify and Next.js
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/web.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
