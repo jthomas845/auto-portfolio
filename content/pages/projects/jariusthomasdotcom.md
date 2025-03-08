@@ -4,7 +4,7 @@ title: Personal Website
 slug: jariusthomasdotcom
 date: '2025-02-05'
 client: Personal Project
-description: built a personal portfolio webpage using Netlify and Next.js
+description: Built a personal portfolio webpage using Netlify and Next.js
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
