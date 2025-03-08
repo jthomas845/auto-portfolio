@@ -29,6 +29,6 @@ backgroundImage:
 ---
 Built a personal portfolio webpage using Netlify and Next.js
 
-
-
 Currently in development! Adding new details, extra projects, photos, videos and blog posts this March.
+
+GitHub: <https://github.com/jthomas845/auto-portfolio/>
