@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Personal Website
+title: Portfolio Website
 slug: jariusthomasdotcom
 date: '2025-02-05'
 client: Personal Project
