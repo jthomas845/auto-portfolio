@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Personal Website
 slug: jariusthomasdotcom
-date: '2025-02-18'
+date: '2025-02-05'
 client: Awesome client
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
