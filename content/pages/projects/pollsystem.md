@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: PollSystem
 slug: PollSystem
-date: '2021-10-06'
+date: '2020-10-06'
 client: WPI
 description: >-
   Collaborated in a team of 4 to create a full-stack web application built on
