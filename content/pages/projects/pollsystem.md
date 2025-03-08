@@ -4,9 +4,7 @@ title: PollSystem
 slug: PollSystem
 date: '2021-01-06'
 client: WPI
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Team of engineers....
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
