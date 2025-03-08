@@ -13,7 +13,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/web.jpg
+  url: /images/website  clipart.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''
