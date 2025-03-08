@@ -26,6 +26,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+endDate: '0002-03-20'
 ---
 Team of engineers....
 
