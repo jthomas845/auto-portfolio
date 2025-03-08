@@ -8,7 +8,7 @@ description: Team of engineers....
 featuredImage:
   type: ImageBlock
   url: /images/vote_phone.jpg
-  altText: Project thumbnail image
+  altText: Project image
   caption: ''
   elementId: ''
 media:
