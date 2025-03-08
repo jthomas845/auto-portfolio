@@ -4,7 +4,9 @@ title: PollSystem
 slug: PollSystem
 date: '2021-01-06'
 client: WPI
-description: Team of engineers....
+description: >-
+  Collaborated in a team of 4 to create a full-stack web application built on
+  Java and AWS
 featuredImage:
   type: ImageBlock
   url: /images/vote_phone.jpg
