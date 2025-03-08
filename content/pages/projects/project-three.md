@@ -96,4 +96,4 @@ At the end of this project, we had successfully built and installed a new rigid 
 
 Full Report: <https://digital.wpi.edu/pdfviewer/cv43p1245>
 
-GitHub: <https://github.com/jthomas845/sailbot21-22>
+GitHub: <https://github.com/wpisailbot/sailbot21-22>
