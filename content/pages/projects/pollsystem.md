@@ -28,7 +28,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-endDate: '0202-12-20'
+endDate: '2020-12-20'
 ---
 Collaborated in a team of 4, created a full-stack network application similar to [when2meet.com](when2meet.com).
 
