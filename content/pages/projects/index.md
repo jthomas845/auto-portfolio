@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-slug: 'projects'
+slug: projects
 title: Projects
 colors: colors-a
 isJobs: false
@@ -14,7 +14,7 @@ backgroundImage:
 projectFeed:
   type: ProjectFeedSection
   colors: colors-f
-  showDate: false
+  showDate: true
   showDescription: true
   showReadMoreLink: true
   showFeaturedImage: true
