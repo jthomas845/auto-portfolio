@@ -6,11 +6,11 @@ colors: colors-a
 date: '2021-09-01'
 client: WPI
 description: >-
-  The goal of this project is to improve upon prior iterations of SailBot, an
-  autonomous robotic sailboat. This was accomplished by improving the
-  mechanical, electrical, and software systems already in place, as well as
-  adding new systems. Our overall objective for this iteration is to increase
-  the rigidity and reliability of the vehicle.
+  The goal of this project was to improve upon prior iterations of SailBot,
+  WPI's autonomous robotic sailboat. This was accomplished by improving the
+  mechanical, electrical, and software systems in place, plus adding new
+  systems. Our overall objective for this iteration is to increase the rigidity
+  and reliability of the vehicle.
 featuredImage:
   type: ImageBlock
   url: /images/sailbo0t good.jpg
