@@ -4,7 +4,7 @@ title: Go - File R/W
 slug: GO-R/W
 date: '2025-03-09'
 client: Personal Project
-description: Build a file Read/Write application in Go
+description: Built a file Read/Write application in Go
 featuredImage:
   type: ImageBlock
   url: /images/book.jpg
