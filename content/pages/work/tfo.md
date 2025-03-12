@@ -1,7 +1,6 @@
 ---
 type: WorkLayout
-slug: "tfo"
-
+slug: tfo
 title: The Fragrance Outlet
 date: '2024-11-08'
 job: true
@@ -23,7 +22,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/gradientB.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
