@@ -5,7 +5,7 @@ title: The Fragrance Outlet
 date: '2024-11-08'
 job: true
 client: 'The Fragrance Outlet (Somerville, MA Store)'
-description: Sales Associate
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/TFO.jpg
