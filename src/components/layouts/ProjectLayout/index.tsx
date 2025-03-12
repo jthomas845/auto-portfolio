@@ -47,12 +47,12 @@ const Component: React.FC<ComponentProps> = (props) => {
                             </div>
                         </header>
                         {description && <div className="text-xl leading-normal uppercase max-w-screen-md mx-auto mb-10 sm:mb-16">{description}</div>}
-                        {media && !smallerImg(
+                        {media && !smallerImg && (
                             <div className="mb-10 sm:mb-16">
                                 <ProjectMedia media={media} />
                             </div>
                         )}
-                        {media && smallerImg(
+                        {media && smallerImg && (
                             <div className="mb-10 sm:mb-16">
                                 <ProjectSmallMedia media={media} />
                             </div>
