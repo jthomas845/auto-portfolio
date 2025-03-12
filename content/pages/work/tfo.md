@@ -28,7 +28,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 smallerImg: true
-endDate: '0002-12-31'
+endDate: '2024-12-31'
 ---
 
 Sales Associate
