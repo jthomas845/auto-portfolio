@@ -150,7 +150,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: /info
             showIcon: true
             icon: arrowRight
             iconPosition: right
