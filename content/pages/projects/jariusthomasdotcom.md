@@ -26,6 +26,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+smallerImg: true
 ---
 Built a personal portfolio webpage using Netlify and Next.js
 
