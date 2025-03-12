@@ -94,6 +94,14 @@ I worked on this in a team of eight engineers. Our goal was to improve these sys
 
 At the end of this project, we had successfully built and installed a new rigid wingsail, restored electrical systems in the hull (including bluetooth comms and a magnetic ON/OFF switch), re-geared and tested the ballast assembly, written and tested our autonomous sailing algorithms, and trained a YOLOv4 computer vision system for finding buoys and other boats.
 
+
+
+Tech Stack: NVIDIA Jetson, ROS2 (Robot Operating System), Python, ZED SDK for JetPack 6.1
+
+
+
+
+
 Full Report: <https://digital.wpi.edu/pdfviewer/cv43p1245>
 
 GitHub: <https://github.com/wpisailbot/sailbot21-22>
