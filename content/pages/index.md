@@ -206,7 +206,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: 'https://www.wpi.edu/academics/departments/robotics-engineering'
             showIcon: true
             icon: arrowRight
             iconPosition: right
