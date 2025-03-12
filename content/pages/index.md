@@ -177,7 +177,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: /projects/jariusthomasdotcom/
             showIcon: true
             icon: arrowRight
             iconPosition: right
