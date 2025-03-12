@@ -4,10 +4,7 @@ slug: tfo
 title: The Fragrance Outlet
 date: '2024-11-08'
 job: true
-client: >-
-  {            type: 'boolean',            name: 'smallerImg',            label:
-  'Use smaller image?',            default: false,            required:
-  false        },
+client: ''
 description: Sales Associat
 featuredImage:
   type: ImageBlock
