@@ -19,6 +19,7 @@ media:
   altText: Project image
 addTitleSuffix: false
 endDate: '2024-07-10'
+smallerImg: true
 ---
 Designed an AI-powered pipeline to generate usable code from Figma designs. This pipeline utilized 3rd-party Gen. AI from builder.io, and Python scripts to clean the generated code.
 

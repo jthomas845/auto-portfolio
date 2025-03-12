@@ -4,8 +4,7 @@ title: Go - File R/W
 slug: GO-R/W
 date: '2025-03-09'
 client: Personal Project
-description: Build a file Read/Write application in Go
-smallerImg: true
+description: Built a file Read/Write application in Go
 featuredImage:
   type: ImageBlock
   url: /images/book.jpg
@@ -28,11 +27,8 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-Build a file Read/Write application in Go
-
-
+Built a file Read/Write application in Go
 
 Tech Stack: GoLang (*string, os, fmt, io libraries)*
-
 
 GitHub: [Link](https://github.com/jthomas845/go-project-one)
