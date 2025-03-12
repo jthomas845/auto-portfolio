@@ -5,7 +5,7 @@ title: The Fragrance Outlet
 date: '2024-11-08'
 job: true
 client: ''
-description: Sales
+description: Sales Associate
 featuredImage:
   type: ImageBlock
   url: /images/TFO.jpg
