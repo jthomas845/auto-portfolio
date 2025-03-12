@@ -27,7 +27,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-smallerImg: false
+smallerImg: true
 ---
 
 Sales Associate
