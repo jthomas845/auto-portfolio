@@ -19,6 +19,13 @@ media:
   type: ImageBlock
   url: /images/ia chat.webp
   altText: Project image
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 *   Developed a Python webhook integrating the chatbot with MongoDB and external APIs for Ticketmaster and Yelp.
 
