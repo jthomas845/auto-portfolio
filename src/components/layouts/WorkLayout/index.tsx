@@ -19,14 +19,14 @@ type ComponentProps = PageComponentProps &
 
 const Component: React.FC<ComponentProps> = (props) => {
     const { global, ...page } = props;
-    const { title, date, endDate="", client, description, markdownContent, media, prevProject, nextProject, bottomSections = [] } = page;
+    const { title, date, endDate = "", client, description, smallerImg, markdownContent, media, prevProject, nextProject, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MM-DD-YYYY');
 
     const dateTimeAttr2 = dayjs(endDate).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate2 = dayjs(endDate).format('MM-DD-YYYY');
     console.log("WorkLayout speaking: here are the props: ", props);
-    
+
     return (
         <BaseLayout {...props}>
             <main id="main" className="sb-layout sb-project-layout">
@@ -37,9 +37,9 @@ const Component: React.FC<ComponentProps> = (props) => {
                             <div className="md:flex md:justify-between">
                                 <div className="text-lg mb-6 md:mb-0 md:ml-12 md:order-last">
                                     <time dateTime={dateTimeAttr}>{formattedDate}</time>
-                                    {endDate && <div> 
-                                    <p> - </p>
-                                    <time dateTime={dateTimeAttr2}>{formattedDate2}</time>
+                                    {endDate && <div>
+                                        <p> - </p>
+                                        <time dateTime={dateTimeAttr2}>{formattedDate2}</time>
                                     </div>
                                     }
                                 </div>
@@ -47,9 +47,14 @@ const Component: React.FC<ComponentProps> = (props) => {
                             </div>
                         </header>
                         {description && <div className="text-xl leading-normal uppercase max-w-screen-md mx-auto mb-10 sm:mb-16">{description}</div>}
-                        {media && (
+                        {media && !smallerImg && (
                             <div className="mb-10 sm:mb-16">
                                 <ProjectMedia media={media} />
+                            </div>
+                        )}
+                        {media && smallerImg && (
+                            <div className="mb-10 sm:mb-16">
+                                <ProjectSmallMedia media={media} />
                             </div>
                         )}
                         {markdownContent && (
@@ -82,6 +87,9 @@ export default Component;
 
 function ProjectMedia({ media }) {
     return <DynamicComponent {...media} className={classNames({ 'w-full': media.type === 'ImageBlock' })} />;
+}
+function ProjectSmallMedia({ media }) {                     //utilising Tailwind CSS
+    return <DynamicComponent {...media} className={classNames({ 'w-1/2 object-center flex mx-auto': media.type === 'ImageBlock' })} />;
 }
 
 function ProjectNavItem({ project, label }) {
