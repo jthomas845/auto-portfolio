@@ -4,7 +4,7 @@ slug: tfo
 title: The Fragrance Outlet
 date: '2024-11-08'
 job: true
-client: ''
+client: The Fragrance Outlet
 description: Sales Associat
 featuredImage:
   type: ImageBlock
