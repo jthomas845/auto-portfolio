@@ -5,6 +5,7 @@ slug: GO-R/W
 date: '2025-03-09'
 client: Personal Project
 description: Build a file Read/Write application in Go
+smallerImg: true
 featuredImage:
   type: ImageBlock
   url: /images/book.jpg

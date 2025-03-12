@@ -4,6 +4,7 @@ title: PollSystem
 slug: PollSystem
 date: '2020-10-06'
 client: WPI
+smallerImg: true
 description: >-
   Collaborated in a team of 4 to create a full-stack web application built on
   Java and AWS

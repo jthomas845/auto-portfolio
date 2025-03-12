@@ -6,6 +6,7 @@ colors: colors-a
 date: '2021-06-10'
 endDate: '2021-08-16'
 client: Publicis Sapient c/o Marriott Int'l
+smallerImg: true
 description: >-
   Participated in a team-led internship program, developing a chatbot app for a
   Major Hotel Chain. Developed a backend Python webhook connecting the chatbot
