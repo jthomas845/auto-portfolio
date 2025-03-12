@@ -74,7 +74,7 @@ metaTitle: Sailbot
 socialImage: /images/sailbo0t cropped.png
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/gradientA.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
