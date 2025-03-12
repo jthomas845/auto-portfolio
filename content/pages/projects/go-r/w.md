@@ -7,7 +7,7 @@ client: Personal Project
 description: Build a file Read/Write application in Go
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/book.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
