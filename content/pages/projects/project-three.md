@@ -6,11 +6,11 @@ colors: colors-a
 date: '2021-09-01'
 client: WPI
 description: >-
-  The goal of this project is to improve upon prior iterations of SailBot, an
-  autonomous robotic sailboat. This was accomplished by improving the
-  mechanical, electrical, and software systems already in place, as well as
-  adding new systems. Our overall objective for this iteration is to increase
-  the rigidity and reliability of the vehicle.
+  The goal of this project was to improve upon prior iterations of SailBot,
+  WPI's autonomous robotic sailboat. This was accomplished by improving the
+  mechanical, electrical, and software systems in place, plus adding new
+  systems. Our overall objective for this iteration is to increase the rigidity
+  and reliability of the vehicle.
 featuredImage:
   type: ImageBlock
   url: /images/sailbo0t good.jpg
@@ -93,6 +93,14 @@ I worked on this in a team of eight engineers. Our goal was to improve these sys
 • Object search and location (computer vission, autonomous)
 
 At the end of this project, we had successfully built and installed a new rigid wingsail, restored electrical systems in the hull (including bluetooth comms and a magnetic ON/OFF switch), re-geared and tested the ballast assembly, written and tested our autonomous sailing algorithms, and trained a YOLOv4 computer vision system for finding buoys and other boats.
+
+
+
+Tech Stack: NVIDIA Jetson, ROS2 (Robot Operating System), Python, ZED SDK for JetPack 6.1
+
+
+
+
 
 Full Report: <https://digital.wpi.edu/pdfviewer/cv43p1245>
 

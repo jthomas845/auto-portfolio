@@ -136,6 +136,122 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
+        title: ''
+        subtitle: Experience
+        text: |+
+          **Nov. 2024 -**
+
+          *   Beverly Public Schools - Substitute Teacher
+
+          **Oct. - Dec. 2024**
+
+          *   The Fragrance Outlet - Sales Associate (Seasonal)
+
+          **2022-2024**
+
+          *   Publicis Sapient - Associate Software Engineer
+
+          **Summer 2022**
+
+          *   KidzToPros - Assistant Teacher
+
+          **Summer 2021**
+
+          *   Publicis Sapient - Software Engineering Intern
+
+          **Summer 2020**
+
+          *   Lowe's - Sales Associate
+          *   DoorDash - Driver
+
+          **2019**
+
+          *   WellCore - Assistant Teacher
+
+          *   CulturePlay - Assistant Teacher
+
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: Education
+        text: >+
+          **2023**
+
+
+          *   AWS Certified Cloud Practitioner certificate
+
+
+          **2018-2022**
+
+
+          *   B.S. computer science and robotics engineering  at Worcester
+          Polytechnic Institute<sup>
+              </sup>
+
+          <sup>Note: Completing the multi-disciplinary robotics engineering
+          program at WPI requires competency in Mechanical Engineering,
+          Electrical Engineering, and Computer Science.</sup>
+
+
+          **2018**
+
+
+          *   High School: West Nyack, New York
+
+          *   Participated in AP Physics, Calculus, Statistics, Literature,
+          History
+
+          *   Captain of Cross Country and Outdoor Track
+
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    columns: 2
+    spacingX: 60
+    spacingY: 60
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
         actions:
           - type: Link
             label: GitHub
@@ -173,6 +289,7 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find me here:'
+    title: ''
   - type: DividerSection
     styles:
       self:
@@ -284,122 +401,6 @@ sections:
         padding:
           - pt-8
           - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        title: ''
-        subtitle: Experience
-        text: |+
-          **Nov. 2024 -**
-
-          *   Beverly Public Schools - Substitute Teacher
-
-          **Oct. - Dec. 2024**
-
-          *   The Fragrance Outlet - Sales Associate (Seasonal)
-
-          **2022-2024**
-
-          *   Publicis Sapient - Associate Software Engineer
-
-          **Summer 2022**
-
-          *   KidzToPros - Assistant Teacher
-
-          **Summer 2021**
-
-          *   Publicis Sapient - Software Engineering Intern
-
-          **Summer 2020**
-
-          *   Lowe's - Sales Associate
-          *   DoorDash - Driver
-
-          **2019**
-
-          *   WellCore - Assistant Teacher
-
-          *   CulturePlay - Assistant Teacher
-
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: Education
-        text: >+
-          **2023**
-
-
-          *   AWS Certified Cloud Practitioner certificate
-
-
-          **2018-2022**
-
-
-          *   B.S. computer science and robotics engineering  at Worcester
-          Polytechnic Institute<sup>
-              </sup>
-
-          <sup>Note: Completing the multi-disciplinary robotics engineering
-          program at WPI requires competency in Mechanical Engineering,
-          Electrical Engineering, and Computer Science.</sup>
-
-
-          **2018**
-
-
-          *   High School: West Nyack, New York
-
-          *   Participated in AP Physics, Calculus, Statistics, Literature,
-          History
-
-          *   Captain of Cross Country and Outdoor Track
-
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
