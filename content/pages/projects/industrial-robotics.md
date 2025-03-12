@@ -8,7 +8,7 @@ client: WPI
 description: >-
   Utilized the ABB IRB1600, a 6-DOF industrial robot, to complete 3D puzzles and
   challenges. Learned the RAPID programming language to script out linear,
-  angular, and complex movements in the joint space
+  angular, and complex movements in the joint space.
 featuredImage:
   type: ImageBlock
   url: /images/ABB.jpg
