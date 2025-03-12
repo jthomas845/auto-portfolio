@@ -8,7 +8,7 @@ client: >-
   {            type: 'boolean',            name: 'smallerImg',            label:
   'Use smaller image?',            default: false,            required:
   false        },
-description: Sales Associate
+description: Sales Associat
 featuredImage:
   type: ImageBlock
   url: /images/TFO.jpg
