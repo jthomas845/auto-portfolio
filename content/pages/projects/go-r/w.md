@@ -4,9 +4,7 @@ title: Go - File R/W
 slug: GO-R/W
 date: '2025-03-09'
 client: Personal Project
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Build a file Read/Write application in Go
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
