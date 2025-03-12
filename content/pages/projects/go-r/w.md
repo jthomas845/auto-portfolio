@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Go - File R/W
 slug: GO-R/W
 date: '2025-03-09'
-client: Awesome client
+client: Personal Project
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
