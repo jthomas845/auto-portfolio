@@ -89,7 +89,7 @@ function ProjectMedia({ media }) {
     return <DynamicComponent {...media} className={classNames({ 'w-full': media.type === 'ImageBlock' })} />;
 }
 function ProjectSmallMedia({ media }) {                     //utilising Tailwind CSS
-    return <DynamicComponent {...media} className={classNames({ 'w-1/2': media.type === 'ImageBlock' })} />;
+    return <DynamicComponent {...media} className={classNames({ 'w-1/2 object-center': media.type === 'ImageBlock' })} />;
 }
 
 function ProjectNavItem({ project, label }) {
