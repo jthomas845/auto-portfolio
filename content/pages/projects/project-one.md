@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: MaryBot
-slug: 'project-one'
+slug: project-one
 colors: colors-a
 date: '2021-06-10'
 endDate: '2021-08-16'
@@ -19,17 +19,20 @@ media:
   url: /images/ia chat.webp
   altText: Project image
 ---
-
-- Developed a Python webhook integrating the chatbot with MongoDB and external APIs for Ticketmaster and Yelp.
-
-<!---->
-
-- Created and tested training conversations on Google Dialogflow. 
+*   Developed a Python webhook integrating the chatbot with MongoDB and external APIs for Ticketmaster and Yelp.
 
 <!---->
 
-- Delivered a well-received demo to executive shareholders showcasing our chatbot’s functions and demonstrating its potential value as a tool in the industry. 
+*   Created and tested training conversations on Google Dialogflow. 
 
 <!---->
 
-- Enhancing skills in Python and Agile teamwork, while gaining exposure to Google Cloud tools and Natural Language Processing
+*   Delivered a well-received demo to executive shareholders showcasing our chatbot’s functions and demonstrating its potential value as a tool in the industry. 
+
+<!---->
+
+*   Enhancing skills in Python and Agile teamwork, while gaining exposure to Google Cloud tools and Natural Language Processing
+
+
+
+Tech Stack: Python, Flask, MongoDB, Google DialogFlow
