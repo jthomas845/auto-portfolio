@@ -29,7 +29,7 @@ bottomSections:
         altText: Image two
         caption: >-
           Test Results from early version of the Computer Vision system (only
-          works with still images)
+          worked with still images)
         elementId: ''
       - type: ImageBlock
         url: /images/a false positive.png
