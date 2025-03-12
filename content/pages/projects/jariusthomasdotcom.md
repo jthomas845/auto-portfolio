@@ -5,7 +5,6 @@ slug: jariusthomasdotcom
 date: '2025-02-05'
 client: Personal Project
 description: Built a personal portfolio webpage using Netlify and Next.js
-smallerImg: true
 featuredImage:
   type: ImageBlock
   url: /images/website  clipart.jpg
