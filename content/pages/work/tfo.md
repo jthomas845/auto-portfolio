@@ -4,7 +4,7 @@ slug: tfo
 title: The Fragrance Outlet
 date: '2024-11-08'
 job: true
-client: The Fragrance Outlet
+client: 'The Fragrance Outlet (Somerville, MA Store)'
 description: Sales Associate
 featuredImage:
   type: ImageBlock
