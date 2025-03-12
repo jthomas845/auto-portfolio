@@ -48,7 +48,7 @@ bottomSections:
         altText: Image four
         caption: Full Sailboat
         elementId: ''
-    colors: colors-f
+    colors: colors-b
     spacing: 16
     columns: 2
     aspectRatio: '1:1'
