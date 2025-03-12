@@ -562,6 +562,7 @@ export type WorkLayout = BaseContentObject & {
     date: string;
     endDate?: string;
     client?: string;
+    smallerImg?: boolean;
     description?: string;
     featuredImage?: ImageBlock;
     media?: ImageBlock | VideoBlock;

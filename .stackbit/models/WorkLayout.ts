@@ -56,6 +56,13 @@ export const WorkLayoutModel: Model = {
             default: 'Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer condimentum dignissim justo vel faucibus.'
         },
         {
+            type: 'boolean',
+            name: 'smallerImg',
+            label: 'Use smaller image?',
+            default: false,
+            required: false
+        },
+        {
             type: 'model',
             name: 'featuredImage',
             label: 'Featured image',
