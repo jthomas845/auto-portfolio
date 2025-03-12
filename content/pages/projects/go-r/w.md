@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Go - File R/W
 slug: GO-R/W
 date: '2025-03-09'
 client: Awesome client
