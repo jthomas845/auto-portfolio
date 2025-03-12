@@ -29,7 +29,7 @@ bottomSections:
         altText: Image two
         caption: >-
           Test Results from early version of the Computer Vision system (only
-          works with still images)
+          worked with still images)
         elementId: ''
       - type: ImageBlock
         url: /images/a false positive.png
@@ -72,6 +72,13 @@ bottomSections:
 endDate: '2022-06-28'
 metaTitle: Sailbot
 socialImage: /images/sailbo0t cropped.png
+backgroundImage:
+  type: BackgroundImage
+  url: /images/gradientA.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 The goal of this project was to improve upon the 5 prior iterations of SailBot, the autonomous robotic sailboat maintained by WPI. This was accomplished by improving the mechanical, electrical, and software systems already in place, as well as adding new systems. Our overall objective for this iteration is to increase the rigidity and reliability of the vehicle.
 
